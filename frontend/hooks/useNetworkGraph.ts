@@ -357,6 +357,7 @@ export default function useNetworkGraph(data: GraphData) {
     }
   }
   function up(e: ReactPointerEvent<SVGSVGElement>) {
+    if (!pointers.current.has(e.pointerId)) return;
     const d = drag.current;
     pointers.current.delete(e.pointerId);
     if (svg.current?.hasPointerCapture(e.pointerId))

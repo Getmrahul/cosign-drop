@@ -286,6 +286,7 @@ export default function NetworkGraph({
                       { '--arrival': `${arrival.get(n.id)}ms` } as CSSProperties
                     }>
                     <circle className="selection-ring" r="31" />
+                    <circle className="node-shadow" r="27" cy="2" />
                     <circle className="node-ring" r="26" />
                     <circle
                       r="23"

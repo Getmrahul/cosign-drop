@@ -77,6 +77,8 @@ header {
 }
 .graph-area {
   position: relative;
+  /* Keep SVG animation paint work inside the graph viewport. */
+  contain: layout paint;
   flex: 1;
   min-height: 0;
   background-image: radial-gradient(#dcdde6 0.7px, transparent 0.7px);
@@ -340,11 +342,15 @@ footer button {
   cursor: pointer;
   transition: opacity 0.18s;
 }
+/* Plain SVG geometry avoids filtered layers being rerasterized while zooming. */
+.node-shadow {
+  fill: #25203e0d;
+  pointer-events: none;
+}
 .node circle.node-ring {
   fill: white;
   stroke: #e3dfe9;
   stroke-width: 2;
-  filter: drop-shadow(0 3px 5px #25203e12);
 }
 .node[data-kind="organization"] .node-ring {
   stroke: #aaa4b7;
@@ -2007,6 +2013,11 @@ dialog.story-modal.story-bubble {
 .workspace[data-intro="complete"] header .story-launcher .small-initials,
 .workspace[data-intro="complete"] header .launcher-bubble {
   animation: none;
+}
+/* Reveal masks are only needed during the opening sequence. Avoid keeping
+   every connection in a masked SVG layer while the camera moves. */
+.workspace[data-intro="complete"] .edge {
+  mask: none;
 }
 @keyframes network-node-arrive {
   0% {
