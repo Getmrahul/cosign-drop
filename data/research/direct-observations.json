@@ -1,0 +1,19 @@
+{
+  "retrieved_on": "2026-09-29",
+  "method": "Chrome: public X profile and search results, with full visible post text and source links",
+  "people": [
+    {"handle":"rahulmfg","name":"Rahul","bio":"Founding engineer at HeroStuff; formerly Product Hunt; building Bakd.work, Maaa.app, and KofeFlow.com","source_url":"https://x.com/rahulmfg","image_url":"https://pbs.twimg.com/profile_images/1899821457234083840/G-0A_iO__400x400.jpg"},
+    {"handle":"rstankov","name":"Radoslav Stankov","image_url":"https://pbs.twimg.com/profile_images/1097025929422032896/kSBIJ78u_x96.png"},
+    {"handle":"andreasklinger","name":"Andreas Klinger","image_url":"https://pbs.twimg.com/profile_images/2015410369057923073/8GtFzk-6_x96.jpg"},
+    {"handle":"sarmariewright","name":"Sarah Wright","image_url":"https://pbs.twimg.com/profile_images/1070003064227037184/E4_5EvOA_x96.jpg"}
+  ],
+  "posts": [
+    {"author":"rstankov","recipients":["rahulmfg"],"source_url":"https://x.com/rstankov/status/1779169370406547867","date":"2024-04-13","excerpt":"I worked with @rahulmfg many years. He is Rado approved 🙌","category":"firsthand_work_endorsement","relationship_context":"Author explicitly states they worked together for many years.","verification_status":"source_reviewed"},
+    {"author":"andreasklinger","recipients":["rahulmfg"],"source_url":"https://x.com/andreasklinger/status/1726852451444346976","date":"2023-11-21","excerpt":"From intern to one of the most important engineers.","category":"firsthand_work_endorsement","relationship_context":"Reply to Rahul; the post also explicitly says the author worked with and learned from him.","verification_status":"source_reviewed"},
+    {"author":"sarmariewright","recipients":["ahiggz","syswarren","devladinci","rahulmfg"],"source_url":"https://x.com/sarmariewright/status/1628041744922316800","date":"2023-02-21","excerpt":"Props to the team who worked on this, including @ahiggz, @syswarren, @DeVladinci and @rahulmfg! She's a beauty.","category":"specific_contribution_praise","relationship_context":"Credits the named team for the Product Hunt Chrome extension hackathon project. Does not establish the author's own employment.","verification_status":"source_reviewed"}
+  ],
+  "excluded": [
+    {"source_url":"https://x.com/heyrohitai/status/2103727374965887278","reason":"Praise for the idea of social proof; does not endorse Rahul's professional ability."},
+    {"source_url":"https://x.com/owens/status/1105318560279097346","reason":"Only says 'Great hire'; congratulatory response lacks specific professional evidence."}
+  ]
+}

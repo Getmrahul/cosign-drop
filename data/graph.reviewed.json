@@ -1,0 +1,3775 @@
+{
+  "schema_version": 1,
+  "collected_on": "2026-09-29",
+  "description": "Public professional relationship sample discovered with Grok and reviewed against X sources. Not exhaustive; no hireability scores.",
+  "nodes": [
+    {
+      "id": "person:rahulmfg",
+      "type": "person",
+      "handle": "rahulmfg",
+      "name": "Rahul",
+      "bio": "Founding engineer at HeroStuff; formerly Product Hunt; building Bakd.work, Maaa.app, and KofeFlow.com",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/rahulmfg",
+      "image_url": "https://pbs.twimg.com/profile_images/1899821457234083840/G-0A_iO__400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:rrhoover",
+      "type": "person",
+      "handle": "rrhoover",
+      "name": "Ryan Hoover",
+      "bio": "Founder and investor",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/rrhoover",
+      "image_url": "https://pbs.twimg.com/profile_images/1289046130366406656/-s-fxoLn_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:andreasklinger",
+      "type": "person",
+      "handle": "andreasklinger",
+      "name": "Andreas Klinger",
+      "bio": "Investor and former operator",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/andreasklinger",
+      "image_url": "https://pbs.twimg.com/profile_images/2015410369057923073/8GtFzk-6_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:rstankov",
+      "type": "person",
+      "handle": "rstankov",
+      "name": "Radoslav Stankov",
+      "bio": "Engineer and engineering leader",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/rstankov",
+      "image_url": "https://pbs.twimg.com/profile_images/1097025929422032896/kSBIJ78u_x96.png",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:kevinwdavid",
+      "type": "person",
+      "handle": "kevinwdavid",
+      "name": "Kevin William David",
+      "bio": "Community operator",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/kevinwdavid",
+      "image_url": "https://pbs.twimg.com/profile_images/1926800762744524800/1GRn8Iwo_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:syswarren",
+      "type": "person",
+      "handle": "syswarren",
+      "name": "Julie Chabin",
+      "bio": "Designer",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/syswarren",
+      "image_url": "https://pbs.twimg.com/profile_images/1666169691264503813/8vO3962W_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:jamiepeak",
+      "type": "person",
+      "handle": "jamiepeak",
+      "name": "Jamie Peak",
+      "bio": "Product designer",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/jamiepeak",
+      "image_url": "https://pbs.twimg.com/profile_images/1691560269749608448/RnIwp3iQ_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:lukas_m_ziegler",
+      "type": "person",
+      "handle": "lukas_m_ziegler",
+      "name": "Lukas Ziegler",
+      "bio": "Robotics and physical-AI angel investor",
+      "bio_verification_status": "candidate",
+      "profile_url": "https://x.com/lukas_m_ziegler",
+      "image_url": "https://pbs.twimg.com/profile_images/2076008715522568192/dUB1oyiU_normal.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:amolkmr05",
+      "type": "person",
+      "handle": "amolkmr05",
+      "name": "Amol Kumar",
+      "bio": null,
+      "bio_verification_status": "candidate",
+      "profile_url": "https://x.com/amolkmr05",
+      "image_url": "https://pbs.twimg.com/profile_images/2089384800440156160/c3_dLJNm_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:thedanigrant",
+      "type": "person",
+      "handle": "thedanigrant",
+      "name": "Dani Grant",
+      "bio": "Former CEO at Jam; works with founders at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/thedanigrant",
+      "image_url": "https://pbs.twimg.com/profile_images/1705365811471478784/xqlu5tsT_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:dok2001",
+      "type": "person",
+      "handle": "dok2001",
+      "name": "Dane Knecht",
+      "bio": "CTO and angel investor",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/dok2001",
+      "image_url": "https://pbs.twimg.com/profile_images/1933364396434001920/nNinLkYf_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:kvnwang",
+      "type": "person",
+      "handle": "kvnwang",
+      "name": "Kevin Wang",
+      "bio": "Health tech and AI builder",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/kvnwang",
+      "image_url": "https://pbs.twimg.com/profile_images/893163257464143872/LXpebsaT_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:vswordh",
+      "type": "person",
+      "handle": "vswordh",
+      "name": "V",
+      "bio": null,
+      "bio_verification_status": "candidate",
+      "profile_url": "https://x.com/vswordh",
+      "image_url": "https://pbs.twimg.com/profile_images/2053479270849130498/UKUvFFaZ_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:portian1682",
+      "type": "person",
+      "handle": "portian1682",
+      "name": "Portia Ngxulelo",
+      "bio": "Founding BD",
+      "bio_verification_status": "candidate",
+      "profile_url": "https://x.com/portian1682",
+      "image_url": "https://pbs.twimg.com/profile_images/2073971987546787840/f_QDKain_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:ditlev",
+      "type": "person",
+      "handle": "ditlev",
+      "name": "Ditlev",
+      "bio": null,
+      "bio_verification_status": "candidate",
+      "profile_url": "https://x.com/ditlev",
+      "image_url": "https://pbs.twimg.com/profile_images/1652579907552137216/WNF7yr8M_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:ed_moraaaa",
+      "type": "person",
+      "handle": "ed_moraaaa",
+      "name": "Edoardo Morani",
+      "bio": "Designer",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/ed_moraaaa",
+      "image_url": "https://pbs.twimg.com/profile_images/2047459796584898560/pKZrpJYg_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:adilmania",
+      "type": "person",
+      "handle": "adilmania",
+      "name": "Adil",
+      "bio": null,
+      "bio_verification_status": "candidate",
+      "profile_url": "https://x.com/adilmania",
+      "image_url": "https://pbs.twimg.com/profile_images/2093478472673005568/TGmMP1qr_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:droovg",
+      "type": "person",
+      "handle": "droovg",
+      "name": "Dhruv Gupta",
+      "bio": "Cosign builder; product at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/droovg",
+      "image_url": "https://pbs.twimg.com/profile_images/2103970451592757248/SXVJ68Kn_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:eriktorenberg",
+      "type": "person",
+      "handle": "eriktorenberg",
+      "name": "Erik Torenberg",
+      "bio": "a16z GP; Cosign co-initiator",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/eriktorenberg",
+      "image_url": "https://pbs.twimg.com/profile_images/1449117890955788292/x3DIqECG_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:david__booth",
+      "type": "person",
+      "handle": "david__booth",
+      "name": "David Booth",
+      "bio": "a16z ecosystem partner; Cosign",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/david__booth",
+      "image_url": "https://pbs.twimg.com/profile_images/1809171042340118528/e7U4zSfE_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:joshuavoydik",
+      "type": "person",
+      "handle": "joshuavoydik",
+      "name": "Joshua Voydik",
+      "bio": "Cofounder and CEO at Hero",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/joshuavoydik",
+      "image_url": "https://pbs.twimg.com/profile_images/1905361802982248448/J6lEPb23_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:kaigradert",
+      "type": "person",
+      "handle": "kaigradert",
+      "name": "Kai Gradert",
+      "bio": "Designer and cofounder",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/kaigradert",
+      "image_url": "https://pbs.twimg.com/profile_images/1611141360652021761/U-PJRx4d_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:sarmariewright",
+      "type": "person",
+      "handle": "sarmariewright",
+      "name": "Sarah Wright",
+      "bio": "Product marketer; formerly head of content at Product Hunt",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/sarmariewright",
+      "image_url": "https://pbs.twimg.com/profile_images/1070003064227037184/E4_5EvOA_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:ahiggz",
+      "type": "person",
+      "handle": "ahiggz",
+      "name": "Ashley Higgins",
+      "bio": "CSO at Standard Bots; former Product Hunt CEO",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/ahiggz",
+      "image_url": "https://pbs.twimg.com/profile_images/1776258557815443456/AEUsrv9I_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:devladinci",
+      "type": "person",
+      "handle": "devladinci",
+      "name": "Vlad",
+      "bio": "Engineer; former Product Hunt engineering lead",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/devladinci",
+      "image_url": "https://pbs.twimg.com/profile_images/1893543915929653248/C4gwQ8Lr_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:rajivayyangar",
+      "type": "person",
+      "handle": "rajivayyangar",
+      "name": "Rajiv Ayyangar",
+      "bio": "Product Hunt CEO; Tandem cofounder",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/rajivayyangar",
+      "image_url": "https://pbs.twimg.com/profile_images/1765796407414599680/vueRgeUy_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:gaby_goldberg",
+      "type": "person",
+      "handle": "gaby_goldberg",
+      "name": "Gaby Goldberg",
+      "bio": "Partner on a16z New Media team",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/gaby_goldberg",
+      "image_url": "https://pbs.twimg.com/profile_images/1607892756571238402/o6yI_kff_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:gbrl_dick",
+      "type": "person",
+      "handle": "gbrl_dick",
+      "name": "Gabriel",
+      "bio": "a16z New Media team",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/gbrl_dick",
+      "image_url": "https://pbs.twimg.com/profile_images/1783096673595781121/WzqwevfT_x96.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:minney_cat",
+      "type": "person",
+      "handle": "minney_cat",
+      "name": "Minn",
+      "bio": "Lighthouse; formerly On Deck",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/minney_cat",
+      "image_url": "https://pbs.twimg.com/profile_images/1680732139791478784/rbuAW6Nx_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:alex_danco",
+      "type": "person",
+      "handle": "alex_danco",
+      "name": "Alex Danco",
+      "bio": "Editor at Large at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/alex_danco",
+      "image_url": "https://pbs.twimg.com/profile_images/2013314547692539904/JJgVoXhL_normal.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:jiratickets",
+      "type": "person",
+      "handle": "jiratickets",
+      "name": "JT",
+      "bio": "Joined the a16z New Media team, announced August 2026",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/jiratickets",
+      "image_url": "https://pbs.twimg.com/profile_images/1824537296353329152/o8ybAmSR_normal.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "person:philippspiess",
+      "type": "person",
+      "handle": "philippspiess",
+      "name": "Philipp Spiess",
+      "bio": "Engineer working on Codex/ChatGPT at OpenAI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/philippspiess",
+      "image_url": "https://pbs.twimg.com/profile_images/2046863769247043585/2m9gPsN1_400x400.jpg",
+      "image_provenance": "Public X DOM; exact observed URL, not an inferred asset path"
+    },
+    {
+      "id": "org:producthunt",
+      "type": "organization",
+      "name": "Product Hunt",
+      "handle": "ProductHunt",
+      "website": "https://www.producthunt.com/",
+      "profile_url": "https://x.com/ProductHunt",
+      "image_url": "https://pbs.twimg.com/profile_images/1772624223195873280/pqadeFo8_400x400.jpg"
+    },
+    {
+      "id": "org:herostuff",
+      "type": "organization",
+      "name": "Hero Stuff",
+      "handle": "herostuffdotcom",
+      "website": "https://www.herostuff.com/",
+      "profile_url": "https://x.com/herostuffdotcom",
+      "image_url": "https://pbs.twimg.com/profile_images/1932831628654678016/QRRpMvj1_400x400.jpg"
+    },
+    {
+      "id": "org:cosign",
+      "type": "organization",
+      "name": "Cosign",
+      "handle": "cosign",
+      "website": "https://cosign.co/",
+      "profile_url": "https://x.com/cosign",
+      "image_url": "https://pbs.twimg.com/profile_images/2103200849015316480/x0fD5h4l_400x400.jpg"
+    },
+    {
+      "id": "org:a16z",
+      "type": "organization",
+      "name": "a16z",
+      "handle": "a16z",
+      "website": "https://a16z.com/",
+      "profile_url": "https://x.com/a16z",
+      "image_url": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_400x400.png"
+    },
+    {
+      "id": "org:weekendfund",
+      "type": "organization",
+      "name": "Weekend Fund",
+      "handle": "WeekendFund",
+      "website": "https://weekend.fund/",
+      "profile_url": "https://x.com/WeekendFund",
+      "image_url": "https://pbs.twimg.com/profile_images/1041419240408903680/pO44UPB5_400x400.jpg"
+    },
+    {
+      "id": "org:prototype",
+      "type": "organization",
+      "name": "PROTOTYPE",
+      "handle": "prototype_cap",
+      "website": "https://prototypecap.com/",
+      "profile_url": "https://x.com/prototype_cap",
+      "image_url": "https://pbs.twimg.com/profile_images/2013177007522140161/tXxAG6SO_400x400.jpg"
+    },
+    {
+      "id": "org:ondeck",
+      "type": "organization",
+      "name": "On Deck",
+      "handle": "beondeck",
+      "website": null,
+      "profile_url": "https://x.com/beondeck",
+      "image_url": "https://pbs.twimg.com/profile_images/1864881345543180288/w5D8bY6D_400x400.jpg",
+      "notes": "The @beondeck profile now says 'On Deck now ODF' and points to @joinodf. Retained as the historical On Deck affiliation node."
+    },
+    {
+      "id": "org:angellist",
+      "type": "organization",
+      "name": "AngelList",
+      "handle": "AngelList",
+      "website": "https://angellist.com/",
+      "profile_url": "https://x.com/AngelList",
+      "image_url": "https://pbs.twimg.com/profile_images/1592528500065550336/u4Ew5lUn_400x400.jpg"
+    },
+    {
+      "id": "org:cloudflare",
+      "type": "organization",
+      "name": "Cloudflare",
+      "handle": "cloudflare",
+      "website": "https://cloudflare.com/",
+      "profile_url": "https://x.com/cloudflare",
+      "image_url": "https://pbs.twimg.com/profile_images/2016613099034345472/zHWjcVEQ_400x400.jpg"
+    },
+    {
+      "id": "org:jam",
+      "type": "organization",
+      "name": "Jam",
+      "handle": "jamdotdev",
+      "website": "https://jam.dev/",
+      "profile_url": "https://x.com/jamdotdev",
+      "image_url": "https://pbs.twimg.com/profile_images/2080338998929846272/pPWghBgQ_400x400.png"
+    },
+    {
+      "id": "org:sword",
+      "type": "organization",
+      "name": "Sword Health",
+      "handle": "swordhealth",
+      "website": null,
+      "profile_url": "https://x.com/swordhealth",
+      "image_url": null,
+      "notes": "Referenced by Kevin Wang's public bio, but https://x.com/swordhealth displayed 'This account doesn’t exist' on 2026-09-29. Image unresolved; do not infer a replacement handle."
+    },
+    {
+      "id": "org:hostedai",
+      "type": "organization",
+      "name": "Hosted AI",
+      "handle": "hosted_ai",
+      "website": "https://hosted.ai/",
+      "profile_url": "https://x.com/hosted_ai",
+      "image_url": "https://pbs.twimg.com/profile_images/2044310385852067841/ivf91aea_400x400.jpg"
+    },
+    {
+      "id": "org:justpoint",
+      "type": "organization",
+      "name": "Justpoint",
+      "handle": "Justpoint",
+      "website": "https://justpoint.com/",
+      "profile_url": "https://x.com/Justpoint",
+      "image_url": "https://pbs.twimg.com/profile_images/2006000724434440192/6rydOHt8_400x400.jpg"
+    },
+    {
+      "id": "org:standardbots",
+      "type": "organization",
+      "name": "Standard Bots",
+      "handle": "StandardBots",
+      "website": "https://standardbots.com/",
+      "profile_url": "https://x.com/StandardBots",
+      "image_url": "https://pbs.twimg.com/profile_images/1638670298685005824/Ifc5R_8u_400x400.jpg"
+    },
+    {
+      "id": "org:tandem",
+      "type": "organization",
+      "name": "Tandem",
+      "handle": "Tandem",
+      "website": "https://tandem.chat/",
+      "profile_url": "https://x.com/Tandem",
+      "image_url": "https://pbs.twimg.com/profile_images/1290521474441175040/afdtLacI_400x400.jpg"
+    },
+    {
+      "id": "org:lighthouse",
+      "type": "organization",
+      "name": "Lighthouse",
+      "handle": "lighthousehq_",
+      "website": "https://lighthousehq.com/",
+      "profile_url": "https://x.com/lighthousehq_",
+      "image_url": "https://pbs.twimg.com/profile_images/2084779577772281856/BfuRwyBv_400x400.jpg"
+    },
+    {
+      "id": "org:openai",
+      "type": "organization",
+      "name": "OpenAI",
+      "handle": "OpenAI",
+      "website": "https://openai.com/",
+      "profile_url": "https://x.com/OpenAI",
+      "image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg"
+    },
+    {
+      "id": "org:livo",
+      "type": "organization",
+      "name": "LIVO",
+      "handle": null,
+      "website": "https://livo.me/",
+      "profile_url": null,
+      "image_url": null,
+      "notes": "No official X handle/profile image resolved in this pass."
+    },
+    {
+      "id": "person:zeldapoem",
+      "type": "person",
+      "name": "Zelda",
+      "handle": "zeldapoem",
+      "bio": "Founding team at Horowitz Andreessen Academy",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/zeldapoem",
+      "image_url": "https://pbs.twimg.com/profile_images/2094548693273935872/qKrK41WN_400x400.jpg"
+    },
+    {
+      "id": "person:liangsays",
+      "type": "person",
+      "name": "Brent Liang",
+      "handle": "liangsays",
+      "bio": "Co-founder of MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/liangsays",
+      "image_url": "https://pbs.twimg.com/profile_images/2043911022436823040/j7FLVjrN_400x400.jpg"
+    },
+    {
+      "id": "person:joshelman",
+      "type": "person",
+      "name": "Josh Elman",
+      "handle": "joshelman",
+      "bio": "Partner at a16z, focused on consumer companies",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/joshelman",
+      "image_url": "https://pbs.twimg.com/profile_images/2069426660534042625/sDAw9dn0_400x400.jpg"
+    },
+    {
+      "id": "person:saltzman_jason",
+      "type": "person",
+      "name": "Jason Saltzman",
+      "handle": "saltzman_jason",
+      "bio": "Head of Insights at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/saltzman_jason",
+      "image_url": "https://pbs.twimg.com/profile_images/2054259172112490496/x7-T7FqI_400x400.jpg"
+    },
+    {
+      "id": "person:netcapgirl",
+      "type": "person",
+      "name": "Sophie",
+      "handle": "netcapgirl",
+      "bio": "MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/netcapgirl",
+      "image_url": "https://pbs.twimg.com/profile_images/1672047750794428421/68dfptfk_400x400.jpg"
+    },
+    {
+      "id": "person:lishali88",
+      "type": "person",
+      "name": "Lisha Li",
+      "handle": "lishali88",
+      "bio": "Partner at a16z, infrastructure and AI; formerly CEO of Rosebud AI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/lishali88",
+      "image_url": "https://pbs.twimg.com/profile_images/2094798096651931648/rM1ryR-G_400x400.jpg"
+    },
+    {
+      "id": "person:jesslionness",
+      "type": "person",
+      "name": "Jess Leão",
+      "handle": "jesslionness",
+      "bio": "Partner at a16z American Dynamism; formerly FDE at Palantir",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/jesslionness",
+      "image_url": "https://pbs.twimg.com/profile_images/2086009783908511744/4AbU3OFm_400x400.jpg"
+    },
+    {
+      "id": "person:humford",
+      "type": "person",
+      "name": "Henry Williams",
+      "handle": "humford",
+      "bio": "Strategic Futures at OpenAI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/humford",
+      "image_url": "https://pbs.twimg.com/profile_images/1946342711918743552/JyLkYO3O_400x400.jpg"
+    },
+    {
+      "id": "person:chrisjbakke",
+      "type": "person",
+      "name": "Chris Bakke",
+      "handle": "chrisjbakke",
+      "bio": "Co-founder of MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/chrisjbakke",
+      "image_url": "https://pbs.twimg.com/profile_images/1491961095136763905/Sd8XRL5__400x400.jpg"
+    },
+    {
+      "id": "person:brookemrtn",
+      "type": "person",
+      "name": "Brooke Martin",
+      "handle": "brookemrtn",
+      "bio": "Building at a16z; worked on Cosign",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/brookemrtn",
+      "image_url": "https://pbs.twimg.com/profile_images/1600006076287459329/wYUxRunj_400x400.jpg"
+    },
+    {
+      "id": "person:jessicarwolf",
+      "type": "person",
+      "name": "Jessica Wolf Lord",
+      "handle": "jessicarwolf",
+      "bio": "Partner at a16z; building communities for founders and executives",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/jessicarwolf",
+      "image_url": "https://pbs.twimg.com/profile_images/1473741866180960273/KF_v52rJ_400x400.jpg"
+    },
+    {
+      "id": "person:kareeening",
+      "type": "person",
+      "name": "Karina Bao",
+      "handle": "kareeening",
+      "bio": "a16z, San Francisco",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/kareeening",
+      "image_url": "https://pbs.twimg.com/profile_images/1841837945096990721/KEIdGHUH_400x400.jpg"
+    },
+    {
+      "id": "person:mikemcg0",
+      "type": "person",
+      "name": "Michael McGuiness",
+      "handle": "mikemcg0",
+      "bio": "Writer at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/mikemcg0",
+      "image_url": "https://pbs.twimg.com/profile_images/1936048717603188736/uKJI-5cE_400x400.jpg"
+    },
+    {
+      "id": "person:lukedenatale",
+      "type": "person",
+      "name": "Luke DeNatale",
+      "handle": "lukedenatale",
+      "bio": "New Media at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/lukedenatale",
+      "image_url": "https://pbs.twimg.com/profile_images/2062048954284417025/EOgfjiCS_400x400.jpg"
+    },
+    {
+      "id": "person:fu_joehudson",
+      "type": "person",
+      "name": "Joe Hudson",
+      "handle": "fu_joehudson",
+      "bio": "Executive coach and founder of The Art of Accomplishment",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/fu_joehudson",
+      "image_url": "https://pbs.twimg.com/profile_images/1960169989278699520/qt8aTrfY_400x400.jpg"
+    },
+    {
+      "id": "person:davideoks",
+      "type": "person",
+      "name": "David Oks",
+      "handle": "davideoks",
+      "bio": "OpenAI; essayist",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/davideoks",
+      "image_url": "https://pbs.twimg.com/profile_images/2088686629242507264/eFLmQKyS_400x400.jpg"
+    },
+    {
+      "id": "person:knowerofmarkets",
+      "type": "person",
+      "name": "knower",
+      "handle": "knowerofmarkets",
+      "bio": "MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/knowerofmarkets",
+      "image_url": "https://pbs.twimg.com/profile_images/2002210312309657600/gFW8c9Q0_400x400.jpg"
+    },
+    {
+      "id": "person:clairevo",
+      "type": "person",
+      "name": "Claire Vo",
+      "handle": "clairevo",
+      "bio": "Building CXO and ChatPRD; host of How I AI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/clairevo",
+      "image_url": "https://pbs.twimg.com/profile_images/1565475442470965248/LBMzyamM_400x400.jpg"
+    },
+    {
+      "id": "person:sebgoddijn",
+      "type": "person",
+      "name": "Seb Goddijn",
+      "handle": "sebgoddijn",
+      "bio": "Building Bonsai at Yak Labs; previously created Glass at Ramp",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/sebgoddijn",
+      "image_url": "https://pbs.twimg.com/profile_images/2017302152411066368/pQdZ-Il3_400x400.jpg"
+    },
+    {
+      "id": "person:ow",
+      "type": "person",
+      "name": "Owen Williams",
+      "handle": "ow",
+      "bio": "Design manager at Stripe, Developer Experience and AI; previously Shopify",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/ow",
+      "image_url": "https://pbs.twimg.com/profile_images/2104589508759220224/j3VLkjHb_400x400.jpg"
+    },
+    {
+      "id": "person:annimaniac",
+      "type": "person",
+      "name": "Ann Miura-Ko",
+      "handle": "annimaniac",
+      "bio": "Pre-seed and seed investor at Floodgate",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/annimaniac",
+      "image_url": "https://pbs.twimg.com/profile_images/378800000381101189/c44207e9c4f71f4bd442cbdd8d28e477_400x400.png"
+    },
+    {
+      "id": "org:mtslive",
+      "type": "organization",
+      "name": "MTS",
+      "handle": "mtslive",
+      "profile_url": "https://x.com/mtslive",
+      "image_url": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_400x400.jpg"
+    },
+    {
+      "id": "org:theacademysf",
+      "type": "organization",
+      "name": "Horowitz Andreessen Academy",
+      "handle": "theacademysf",
+      "profile_url": "https://x.com/theacademysf",
+      "image_url": "https://pbs.twimg.com/profile_images/2102133530180673536/njGE5SXw_400x400.jpg"
+    },
+    {
+      "id": "org:artofaccomp",
+      "type": "organization",
+      "name": "The Art of Accomplishment",
+      "handle": "artofaccomp",
+      "profile_url": "https://x.com/artofaccomp",
+      "image_url": "https://pbs.twimg.com/profile_images/1546963329406550018/DEurIPcQ_400x400.jpg"
+    }
+  ],
+  "edges": [
+    {
+      "id": "E01",
+      "source": "person:rrhoover",
+      "target": "person:rahulmfg",
+      "type": "vouch",
+      "category": "firsthand_work_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:1986817190813647119"
+      ],
+      "context": "Product Hunt colleagues",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E02",
+      "source": "person:andreasklinger",
+      "target": "person:rahulmfg",
+      "type": "vouch",
+      "category": "firsthand_work_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:1726852451444346976"
+      ],
+      "context": "Product Hunt; excerpt splices sentences and needs correction",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E03",
+      "source": "person:rstankov",
+      "target": "person:rahulmfg",
+      "type": "vouch",
+      "category": "firsthand_work_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:1779169370406547867"
+      ],
+      "context": "Product Hunt colleagues",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E04",
+      "source": "person:rahulmfg",
+      "target": "person:kevinwdavid",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:2103539621489774876"
+      ],
+      "context": "Reclassified from Grok general endorsement",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E05",
+      "source": "person:rahulmfg",
+      "target": "person:rrhoover",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:2103539621489774876"
+      ],
+      "context": "Reclassified; same source as E04,E06,E07",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E06",
+      "source": "person:rahulmfg",
+      "target": "person:andreasklinger",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:2103539621489774876"
+      ],
+      "context": "Reclassified",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E07",
+      "source": "person:rahulmfg",
+      "target": "person:rstankov",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:2103539621489774876"
+      ],
+      "context": "Reclassified",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E08",
+      "source": "person:rrhoover",
+      "target": "person:rahulmfg",
+      "type": "acknowledgment",
+      "category": "general_professional_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:2103599162721722529"
+      ],
+      "context": "Weak, contextual acknowledgment; exclude from default work-vouch view",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E09",
+      "source": "person:rahulmfg",
+      "target": "person:andreasklinger",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:1726853675556188256"
+      ],
+      "context": "Reclassified mentorship acknowledgment",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E10",
+      "source": "person:kevinwdavid",
+      "target": "person:rrhoover",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:1986542173530235076"
+      ],
+      "context": "Reclassified",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E11",
+      "source": "person:rrhoover",
+      "target": "person:jamiepeak",
+      "type": "vouch",
+      "category": "hiring_recommendation",
+      "directed": true,
+      "source_ids": [
+        "x:2084666290745303271"
+      ],
+      "context": "Prior projects; needs contiguous excerpt; do not infer present availability",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E12",
+      "source": "person:rstankov",
+      "target": "person:syswarren",
+      "type": "vouch",
+      "category": "firsthand_work_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:1686095629934559232"
+      ],
+      "context": "Reply to Julie's last day at Product Hunt",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E13",
+      "source": "person:andreasklinger",
+      "target": "person:lukas_m_ziegler",
+      "type": "vouch",
+      "category": "general_professional_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:2080624014519644269"
+      ],
+      "context": "Angel investing context; no stated joint employment",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E14",
+      "source": "person:amolkmr05",
+      "target": "person:rahulmfg",
+      "type": "praise",
+      "category": "specific_contribution_praise",
+      "directed": true,
+      "source_ids": [
+        "x:955534946701000704"
+      ],
+      "context": "Golden Kitty Awards; needs shorter excerpt",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E15",
+      "source": "person:thedanigrant",
+      "target": "person:dok2001",
+      "type": "career_support",
+      "category": "mentorship_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:2103511607246836071"
+      ],
+      "context": "Explicit praise of teaching contribution",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E16",
+      "source": "person:kvnwang",
+      "target": "person:vswordh",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:2103870478729511383"
+      ],
+      "context": "Reclassified",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E17",
+      "source": "person:portian1682",
+      "target": "person:ditlev",
+      "type": "career_support",
+      "category": "career_support_acknowledgment",
+      "directed": true,
+      "source_ids": [
+        "x:2103798167728705570"
+      ],
+      "context": "Reclassified",
+      "verification_status": "source_reviewed",
+      "default_visible": false
+    },
+    {
+      "id": "E18",
+      "source": "person:ed_moraaaa",
+      "target": "person:adilmania",
+      "type": "vouch",
+      "category": "would_work_with",
+      "directed": true,
+      "source_ids": [
+        "x:2103656342418518302"
+      ],
+      "context": "Silicon Mania mentioned; no shared employer stated",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E19",
+      "source": "person:sarmariewright",
+      "target": "person:ahiggz",
+      "type": "praise",
+      "category": "specific_contribution_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1628041744922316800"
+      ],
+      "context": "Product Hunt Chrome extension hackathon team",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E20",
+      "source": "person:sarmariewright",
+      "target": "person:syswarren",
+      "type": "praise",
+      "category": "specific_contribution_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1628041744922316800"
+      ],
+      "context": "Product Hunt Chrome extension hackathon team",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E21",
+      "source": "person:sarmariewright",
+      "target": "person:devladinci",
+      "type": "praise",
+      "category": "specific_contribution_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1628041744922316800"
+      ],
+      "context": "Product Hunt Chrome extension hackathon team",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E22",
+      "source": "person:sarmariewright",
+      "target": "person:rahulmfg",
+      "type": "praise",
+      "category": "specific_contribution_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1628041744922316800"
+      ],
+      "context": "Product Hunt Chrome extension hackathon team",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E23",
+      "source": "person:ahiggz",
+      "target": "person:rajivayyangar",
+      "type": "vouch",
+      "category": "general_professional_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:1704179319176569222"
+      ],
+      "context": "Incoming Product Hunt CEO named by outgoing CEO",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E24",
+      "source": "person:rrhoover",
+      "target": "person:syswarren",
+      "type": "praise",
+      "category": "specific_contribution_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1686106685016846336"
+      ],
+      "context": "Reply to Julie’s last-day-at-Product-Hunt post",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E25",
+      "source": "person:rrhoover",
+      "target": "person:andreasklinger",
+      "type": "vouch",
+      "category": "general_professional_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:2013299287141093692"
+      ],
+      "context": "Ryan as backer/LP of Andreas’s funds",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E26",
+      "source": "person:eriktorenberg",
+      "target": "person:gaby_goldberg",
+      "type": "vouch",
+      "category": "general_professional_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:2056428104520712316"
+      ],
+      "context": "Hiring Gaby as a16z New Media partner",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E27",
+      "source": "person:eriktorenberg",
+      "target": "person:gbrl_dick",
+      "type": "praise",
+      "category": "specific_skill_praise",
+      "directed": true,
+      "source_ids": [
+        "x:2026408081806987667"
+      ],
+      "context": "Hiring Gabriel onto a16z New Media team",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E28",
+      "source": "person:david__booth",
+      "target": "person:gbrl_dick",
+      "type": "vouch",
+      "category": "general_professional_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:2026414829649670489"
+      ],
+      "context": "Same a16z New Media hire",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E29",
+      "source": "person:david__booth",
+      "target": "person:minney_cat",
+      "type": "vouch",
+      "category": "firsthand_work_endorsement",
+      "directed": true,
+      "source_ids": [
+        "x:1772324925963125009"
+      ],
+      "context": "David hired/worked with Minn at On Deck",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E30",
+      "source": "person:eriktorenberg",
+      "target": "person:alex_danco",
+      "type": "praise",
+      "category": "specific_skill_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1955309164860936369"
+      ],
+      "context": "Hiring Alex as a16z Editor at Large",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E31",
+      "source": "person:eriktorenberg",
+      "target": "person:jiratickets",
+      "type": "praise",
+      "category": "hiring_praise",
+      "directed": true,
+      "source_ids": [
+        "x:2092701180816498749"
+      ],
+      "context": "Hiring JT onto a16z New Media team",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E32",
+      "source": "person:andreasklinger",
+      "target": "person:philippspiess",
+      "type": "praise",
+      "category": "specific_skill_praise",
+      "directed": true,
+      "source_ids": [
+        "x:2018756491386204476"
+      ],
+      "context": "Podcast hosts; no stated joint employment",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "E33",
+      "source": "person:sarmariewright",
+      "target": "person:ahiggz",
+      "type": "praise",
+      "category": "leadership_praise",
+      "directed": true,
+      "source_ids": [
+        "x:1704183243673850091"
+      ],
+      "context": "2.5 years together at Product Hunt; outgoing-CEO announcement",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A001",
+      "source": "person:rahulmfg",
+      "target": "org:herostuff",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founding engineer",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rahulmfg"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A002",
+      "source": "person:rahulmfg",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Full-stack engineer",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rahulmfg"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A003",
+      "source": "person:rrhoover",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founder",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rrhoover"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A004",
+      "source": "person:rrhoover",
+      "target": "org:weekendfund",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Investor",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rrhoover"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A005",
+      "source": "person:andreasklinger",
+      "target": "org:prototype",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Investor",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:andreasklinger"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A006",
+      "source": "person:andreasklinger",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:andreasklinger"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A007",
+      "source": "person:andreasklinger",
+      "target": "org:angellist",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:andreasklinger"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A008",
+      "source": "person:andreasklinger",
+      "target": "org:ondeck",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:andreasklinger"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A009",
+      "source": "person:rstankov",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Head of Engineering",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rstankov"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A010",
+      "source": "person:rstankov",
+      "target": "org:livo",
+      "type": "affiliation",
+      "directed": false,
+      "role": "CTO and cofounder",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rstankov"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A011",
+      "source": "person:syswarren",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Head of Design",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:syswarren"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A012",
+      "source": "person:syswarren",
+      "target": "org:angellist",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Design",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:syswarren"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A013",
+      "source": "person:kevinwdavid",
+      "target": "org:angellist",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Community lead",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:kevinwdavid"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A014",
+      "source": "person:kevinwdavid",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Hunter / community contributor",
+      "temporal_status": "unknown",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:kevinwdavid"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A015",
+      "source": "person:sarmariewright",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Head of Content",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:sarmariewright"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A016",
+      "source": "person:sarmariewright",
+      "target": "org:justpoint",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Director of Product Marketing",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:sarmariewright"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A017",
+      "source": "person:ahiggz",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "CEO",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:1704179319176569222"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A018",
+      "source": "person:ahiggz",
+      "target": "org:standardbots",
+      "type": "affiliation",
+      "directed": false,
+      "role": "CSO",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:ahiggz"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A019",
+      "source": "person:devladinci",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Engineering lead",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:devladinci"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A020",
+      "source": "person:rajivayyangar",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": "CEO",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rajivayyangar"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A021",
+      "source": "person:rajivayyangar",
+      "target": "org:tandem",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Cofounder",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:rajivayyangar"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A022",
+      "source": "person:eriktorenberg",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "General Partner",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:eriktorenberg"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A023",
+      "source": "person:eriktorenberg",
+      "target": "org:cosign",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Co-initiator",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:eriktorenberg"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A024",
+      "source": "person:david__booth",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner, Ecosystem",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:david__booth"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A025",
+      "source": "person:david__booth",
+      "target": "org:cosign",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Builder",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:david__booth"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A026",
+      "source": "person:david__booth",
+      "target": "org:ondeck",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Cofounder and CEO",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:david__booth"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A027",
+      "source": "person:david__booth",
+      "target": "org:angellist",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:david__booth"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A028",
+      "source": "person:droovg",
+      "target": "org:cosign",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Builder",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:droovg"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A029",
+      "source": "person:droovg",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Product",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:droovg"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A030",
+      "source": "person:gaby_goldberg",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner, New Media",
+      "temporal_status": "at_source_date",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:2056428104520712316"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A031",
+      "source": "person:gbrl_dick",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "New Media team",
+      "temporal_status": "at_source_date",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:2026408081806987667"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A032",
+      "source": "person:alex_danco",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Editor at Large",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:alex_danco"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A033",
+      "source": "person:jiratickets",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "New Media team",
+      "temporal_status": "at_source_date",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:2092701180816498749"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A034",
+      "source": "person:minney_cat",
+      "target": "org:ondeck",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:1772324925963125009"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A035",
+      "source": "person:minney_cat",
+      "target": "org:lighthouse",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:minney_cat"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A036",
+      "source": "person:thedanigrant",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Works with founders",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:thedanigrant"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A037",
+      "source": "person:thedanigrant",
+      "target": "org:jam",
+      "type": "affiliation",
+      "directed": false,
+      "role": "CEO",
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:thedanigrant"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A038",
+      "source": "person:dok2001",
+      "target": "org:cloudflare",
+      "type": "affiliation",
+      "directed": false,
+      "role": "CTO",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:dok2001"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A039",
+      "source": "person:kvnwang",
+      "target": "org:sword",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:kvnwang"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A040",
+      "source": "person:portian1682",
+      "target": "org:hostedai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founding BD",
+      "temporal_status": "unknown",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:2103798167728705570"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A041",
+      "source": "person:ditlev",
+      "target": "org:hostedai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Cofounder and CEO",
+      "temporal_status": "at_source_date",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:2103798167728705570"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A042",
+      "source": "person:joshuavoydik",
+      "target": "org:herostuff",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Cofounder and CEO",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:hero-launches-for-businesses-shopify-import-catalog-cleanup-and-a-web-dashboard-302849991.html"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A043",
+      "source": "person:kaigradert",
+      "target": "org:herostuff",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Cofounder",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:kaigradert"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A044",
+      "source": "person:kaigradert",
+      "target": "org:producthunt",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:kaigradert"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A045",
+      "source": "person:kaigradert",
+      "target": "org:angellist",
+      "type": "affiliation",
+      "directed": false,
+      "role": null,
+      "temporal_status": "historical",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:kaigradert"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A046",
+      "source": "person:philippspiess",
+      "target": "org:openai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Engineer",
+      "temporal_status": "current",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "profile:philippspiess"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "A047",
+      "source": "person:vswordh",
+      "target": "org:sword",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Hired Kevin Wang (as reported by Kevin)",
+      "temporal_status": "at_source_date",
+      "start_date": null,
+      "end_date": null,
+      "source_ids": [
+        "x:2103870478729511383"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "W-E01",
+      "source": "person:rrhoover",
+      "target": "person:rahulmfg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1986817190813647119"
+      ],
+      "derived_from_event": "E01",
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Direct collaboration explicitly stated in the source. This is not an additional endorsement event."
+    },
+    {
+      "id": "W-E02",
+      "source": "person:andreasklinger",
+      "target": "person:rahulmfg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1726852451444346976"
+      ],
+      "derived_from_event": "E02",
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Direct collaboration explicitly stated in the source. This is not an additional endorsement event."
+    },
+    {
+      "id": "W-E03",
+      "source": "person:rstankov",
+      "target": "person:rahulmfg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1779169370406547867"
+      ],
+      "derived_from_event": "E03",
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Direct collaboration explicitly stated in the source. This is not an additional endorsement event."
+    },
+    {
+      "id": "W-E11",
+      "source": "person:rrhoover",
+      "target": "person:jamiepeak",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2084666290745303271"
+      ],
+      "derived_from_event": "E11",
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Direct collaboration explicitly stated in the source. This is not an additional endorsement event."
+    },
+    {
+      "id": "W-E12",
+      "source": "person:rstankov",
+      "target": "person:syswarren",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1686095629934559232"
+      ],
+      "derived_from_event": "E12",
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Direct collaboration explicitly stated in the source. This is not an additional endorsement event."
+    },
+    {
+      "id": "W-E29",
+      "source": "person:david__booth",
+      "target": "person:minney_cat",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1772324925963125009"
+      ],
+      "derived_from_event": "E29",
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Direct collaboration explicitly stated in the source. This is not an additional endorsement event."
+    },
+    {
+      "id": "X001",
+      "source": "person:eriktorenberg",
+      "target": "person:zeldapoem",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102450261247873489"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X002",
+      "source": "person:eriktorenberg",
+      "target": "person:joshelman",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2069437709870059796"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X003",
+      "source": "person:eriktorenberg",
+      "target": "person:saltzman_jason",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2049550409170379214"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X004",
+      "source": "person:eriktorenberg",
+      "target": "person:lishali88",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2047349173411053590"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X005",
+      "source": "person:eriktorenberg",
+      "target": "person:jesslionness",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2052070544015790547"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X006",
+      "source": "person:eriktorenberg",
+      "target": "person:jessicarwolf",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X007",
+      "source": "person:eriktorenberg",
+      "target": "person:kareeening",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X008",
+      "source": "person:eriktorenberg",
+      "target": "person:mikemcg0",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X009",
+      "source": "person:eriktorenberg",
+      "target": "person:brookemrtn",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X010",
+      "source": "person:eriktorenberg",
+      "target": "person:lukedenatale",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X011",
+      "source": "person:eriktorenberg",
+      "target": "person:liangsays",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X012",
+      "source": "person:eriktorenberg",
+      "target": "person:netcapgirl",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X013",
+      "source": "person:eriktorenberg",
+      "target": "person:humford",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X014",
+      "source": "person:eriktorenberg",
+      "target": "person:davideoks",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X015",
+      "source": "person:eriktorenberg",
+      "target": "person:chrisjbakke",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X016",
+      "source": "person:eriktorenberg",
+      "target": "person:knowerofmarkets",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X017",
+      "source": "person:humford",
+      "target": "person:eriktorenberg",
+      "type": "career_support",
+      "directed": true,
+      "source_ids": [
+        "x:2087613901739581836"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X018",
+      "source": "person:chrisjbakke",
+      "target": "person:eriktorenberg",
+      "type": "vouch",
+      "directed": true,
+      "source_ids": [
+        "x:2089450846023229452"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X019",
+      "source": "person:brookemrtn",
+      "target": "person:eriktorenberg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "context": "Explicit collaboration building Cosign, not a hiring endorsement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X020",
+      "source": "person:brookemrtn",
+      "target": "person:david__booth",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "context": "Explicit collaboration building Cosign, not a hiring endorsement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X021",
+      "source": "person:brookemrtn",
+      "target": "person:droovg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "context": "Explicit collaboration building Cosign, not a hiring endorsement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X022",
+      "source": "person:david__booth",
+      "target": "person:clairevo",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X023",
+      "source": "person:david__booth",
+      "target": "person:sebgoddijn",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X024",
+      "source": "person:david__booth",
+      "target": "person:ow",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X025",
+      "source": "person:david__booth",
+      "target": "person:annimaniac",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X026",
+      "source": "person:eriktorenberg",
+      "target": "person:fu_joehudson",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2076411247864713708"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X027",
+      "source": "person:droovg",
+      "target": "person:liangsays",
+      "type": "career_support",
+      "directed": true,
+      "source_ids": [
+        "x:2103493993866879012"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X028",
+      "source": "person:liangsays",
+      "target": "person:droovg",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2103502546249884113"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X029",
+      "source": "person:droovg",
+      "target": "person:liangsays",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103508294010851509"
+      ],
+      "context": "Cosign and MTS collaboration, explicit first-person statement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X030",
+      "source": "person:david__booth",
+      "target": "person:droovg",
+      "type": "vouch",
+      "directed": true,
+      "source_ids": [
+        "x:2103969644034089277"
+      ],
+      "context": "Public statement of willingness to cosign Dhruv.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X031",
+      "source": "person:liangsays",
+      "target": "person:humford",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2087617976547905979"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X032",
+      "source": "person:humford",
+      "target": "person:liangsays",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2087618267485774000"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X033",
+      "source": "person:liangsays",
+      "target": "person:chrisjbakke",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X034",
+      "source": "person:liangsays",
+      "target": "person:netcapgirl",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X035",
+      "source": "person:liangsays",
+      "target": "person:gbrl_dick",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X036",
+      "source": "person:liangsays",
+      "target": "person:knowerofmarkets",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X037",
+      "source": "person:thedanigrant",
+      "target": "person:clairevo",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2092366965696512047"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X038",
+      "source": "person:clairevo",
+      "target": "person:thedanigrant",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:1984097124381069770"
+      ],
+      "context": "Praise for professional meetings, not a hiring vouch.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X039",
+      "source": "person:brookemrtn",
+      "target": "person:droovg",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2103497809517502884"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X040",
+      "source": "person:david__booth",
+      "target": "person:joshelman",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103513498361995391"
+      ],
+      "context": "Co-appeared on a Cosign podcast; a specific collaboration, not employment or a hiring vouch.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X041",
+      "source": "person:david__booth",
+      "target": "person:eriktorenberg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103513498361995391"
+      ],
+      "context": "Co-appeared on a Cosign podcast; a specific collaboration, not employment or a hiring vouch.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA41",
+      "source": "person:zeldapoem",
+      "target": "org:theacademysf",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founding team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:zeldapoem"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA42",
+      "source": "person:liangsays",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Co-founder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:liangsays"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA43",
+      "source": "person:chrisjbakke",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Co-founder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:chrisjbakke"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA44",
+      "source": "person:netcapgirl",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:netcapgirl"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA45",
+      "source": "person:knowerofmarkets",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:knowerofmarkets"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA46",
+      "source": "person:joshelman",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:joshelman"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA47",
+      "source": "person:saltzman_jason",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Head of Insights",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:saltzman_jason"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA48",
+      "source": "person:lishali88",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner, infrastructure and AI",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:lishali88"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA49",
+      "source": "person:jesslionness",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner, American Dynamism",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:jesslionness"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA50",
+      "source": "person:brookemrtn",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Builder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:brookemrtn"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA51",
+      "source": "person:jessicarwolf",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:jessicarwolf"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA52",
+      "source": "person:kareeening",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:kareeening"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA53",
+      "source": "person:mikemcg0",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Writer",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:mikemcg0"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA54",
+      "source": "person:lukedenatale",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "New Media",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:lukedenatale"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA55",
+      "source": "person:humford",
+      "target": "org:openai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Strategic Futures",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:humford"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA56",
+      "source": "person:davideoks",
+      "target": "org:openai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:davideoks"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA57",
+      "source": "person:fu_joehudson",
+      "target": "org:artofaccomp",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:fu_joehudson"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA58",
+      "source": "person:brookemrtn",
+      "target": "org:cosign",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Built Cosign",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA59",
+      "source": "person:gbrl_dick",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Named MTS collaborator",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA60",
+      "source": "person:clairevo",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Ops Engineering Founding Fellow",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA61",
+      "source": "person:sebgoddijn",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Ops Engineering Founding Fellow",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "J001",
+      "source": "person:joshuavoydik",
+      "target": "person:rahulmfg",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:1787900954907652459"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true,
+      "context": "Joshua welcomes Rahul to Hero and says he is helping the team build its marketplace.",
+      "category": "hiring_praise"
+    },
+    {
+      "id": "W-J001",
+      "source": "person:joshuavoydik",
+      "target": "person:rahulmfg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1787900954907652459"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Joshua welcomes Rahul to Hero and says he is helping the team build its marketplace. Same hiring announcement; not a separate endorsement.",
+      "derived_from_event": "J001"
+    }
+  ],
+  "sources": [
+    {
+      "id": "x:1986817190813647119",
+      "url": "https://x.com/rrhoover/status/1986817190813647119",
+      "author_id": "person:rrhoover",
+      "date": "2025-11-07",
+      "date_basis": "UTC calendar date reported by Grok, checked where source timestamp was captured",
+      "excerpt": "You hustled your way in. Really good case study of how to land a role and loved working with you.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed"
+    },
+    {
+      "id": "x:1726852451444346976",
+      "url": "https://x.com/andreasklinger/status/1726852451444346976",
+      "author_id": "person:andreasklinger",
+      "date": "2023-11-21",
+      "date_basis": "UTC calendar date reported by Grok, checked where source timestamp was captured",
+      "excerpt": "From intern to one of the most important engineers.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed"
+    },
+    {
+      "id": "x:1779169370406547867",
+      "url": "https://x.com/rstankov/status/1779169370406547867",
+      "author_id": "person:rstankov",
+      "date": "2024-04-13",
+      "date_basis": "UTC calendar date reported by Grok, checked where source timestamp was captured",
+      "excerpt": "I worked with @rahulmfg many years. He is Rado approved",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed"
+    },
+    {
+      "id": "x:2103539621489774876",
+      "url": "https://x.com/rahulmfg/status/2103539621489774876",
+      "author_id": "person:rahulmfg",
+      "date": "2026-09-25",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "These people genuinely changed my life by betting on me ❤️",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-09-25T17:38:22.000Z"
+    },
+    {
+      "id": "x:2103599162721722529",
+      "url": "https://x.com/rrhoover/status/2103599162721722529",
+      "author_id": "person:rrhoover",
+      "date": "2026-09-25",
+      "date_basis": "UTC calendar date reported by Grok, checked where source timestamp was captured",
+      "excerpt": "You earned it all :)",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed"
+    },
+    {
+      "id": "x:1726853675556188256",
+      "url": "https://x.com/rahulmfg/status/1726853675556188256",
+      "author_id": "person:rahulmfg",
+      "date": "2023-11-21",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Pleasure is mine, learned so much from you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2023-11-21T06:42:54.000Z"
+    },
+    {
+      "id": "x:1986542173530235076",
+      "url": "https://x.com/kevinwdavid/status/1986542173530235076",
+      "author_id": "person:kevinwdavid",
+      "date": "2025-11-06",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "After a few emails, he took a bet on me.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2025-11-06T21:12:16.000Z"
+    },
+    {
+      "id": "x:2084666290745303271",
+      "url": "https://x.com/rrhoover/status/2084666290745303271",
+      "author_id": "person:rrhoover",
+      "date": "2026-08-04",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "I’ve worked with him on a few projects and would rehire immediately if I had an opening.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-08-04T15:42:29.000Z"
+    },
+    {
+      "id": "x:1686095629934559232",
+      "url": "https://x.com/rstankov/status/1686095629934559232",
+      "author_id": "person:rstankov",
+      "date": "2023-07-31",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "I was great working with you, hope our paths cross again",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2023-07-31T19:24:58.000Z"
+    },
+    {
+      "id": "x:2080624014519644269",
+      "url": "https://x.com/andreasklinger/status/2080624014519644269",
+      "author_id": "person:andreasklinger",
+      "date": "2026-07-24",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Can fully recommend Lukas",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-07-24T11:59:55.000Z"
+    },
+    {
+      "id": "x:955534946701000704",
+      "url": "https://x.com/amolkmr05/status/955534946701000704",
+      "author_id": "person:amolkmr05",
+      "date": "2018-01-22",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "you're one of the core members of Golden Kitty Awards team and that's remarkable...",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2018-01-22T20:17:38.000Z"
+    },
+    {
+      "id": "x:2103511607246836071",
+      "url": "https://x.com/thedanigrant/status/2103511607246836071",
+      "author_id": "person:thedanigrant",
+      "date": "2026-09-25",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "@dok2001 took a chance on me right out of college and taught me everything I know about building product",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-09-25T15:47:03.000Z"
+    },
+    {
+      "id": "x:2103870478729511383",
+      "url": "https://x.com/kvnwang/status/2103870478729511383",
+      "author_id": "person:kvnwang",
+      "date": "2026-09-26",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "But glad he took a chance and let me build some amazing products like Predict and Pulse",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-09-26T15:33:04.000Z"
+    },
+    {
+      "id": "x:2103798167728705570",
+      "url": "https://x.com/PortiaN1682/status/2103798167728705570",
+      "author_id": "person:portian1682",
+      "date": "2026-09-26",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "@ditlev Co founder and CEO of @hosted_ai took a chance on me",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-09-26T10:45:44.000Z"
+    },
+    {
+      "id": "x:2103656342418518302",
+      "url": "https://x.com/ed_moraaaa/status/2103656342418518302",
+      "author_id": "person:ed_moraaaa",
+      "date": "2026-09-26",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "also he is a person I would work with.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-09-26T01:22:10.000Z"
+    },
+    {
+      "id": "x:1628041744922316800",
+      "url": "https://x.com/sarmariewright/status/1628041744922316800",
+      "author_id": "person:sarmariewright",
+      "date": "2023-02-21",
+      "date_basis": "UTC calendar date reported by Grok, checked where source timestamp was captured",
+      "excerpt": "Props to the team who worked on this, including @ahiggz, @syswarren, @DeVladinci and @rahulmfg!",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed"
+    },
+    {
+      "id": "x:1704179319176569222",
+      "url": "https://x.com/ahiggz/status/1704179319176569222",
+      "author_id": "person:ahiggz",
+      "date": "2023-09-19",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "the talented @rajivayyangar will be leading the company’s next chapter.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2023-09-19T17:03:06.000Z"
+    },
+    {
+      "id": "x:1686106685016846336",
+      "url": "https://x.com/rrhoover/status/1686106685016846336",
+      "author_id": "person:rrhoover",
+      "date": "2023-07-31",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Grateful for all your hard work + sincere care for makers and the Product Hunt community.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2023-07-31T20:08:54.000Z"
+    },
+    {
+      "id": "x:2013299287141093692",
+      "url": "https://x.com/rrhoover/status/2013299287141093692",
+      "author_id": "person:rrhoover",
+      "date": "2026-01-19",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "I've backed all of @andreasklinger's funds, including his latest. He's good.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-01-19T17:15:30.000Z"
+    },
+    {
+      "id": "x:2056428104520712316",
+      "url": "https://x.com/eriktorenberg/status/2056428104520712316",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-05-18",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Gaby is incredibly talented and kind and I'm absolutely stoked to have her join the firm.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-05-18T17:34:01.000Z"
+    },
+    {
+      "id": "x:2026408081806987667",
+      "url": "https://x.com/eriktorenberg/status/2026408081806987667",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-02-24",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Gabriel is one of the best poasters in the world who will help us do it.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-02-24T21:25:10.000Z"
+    },
+    {
+      "id": "x:2026414829649670489",
+      "url": "https://x.com/david__booth/status/2026414829649670489",
+      "author_id": "person:david__booth",
+      "date": "2026-02-24",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "gabriel is one of the best, welcome to the team man!",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-02-24T21:51:59.000Z"
+    },
+    {
+      "id": "x:1772324925963125009",
+      "url": "https://x.com/david__booth/status/1772324925963125009",
+      "author_id": "person:david__booth",
+      "date": "2024-03-25",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Fortunately, I still had the opportunity to hire/work with her at On Deck… truly one of the best.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2024-03-25T18:09:25.000Z"
+    },
+    {
+      "id": "x:1955309164860936369",
+      "url": "https://x.com/eriktorenberg/status/1955309164860936369",
+      "author_id": "person:eriktorenberg",
+      "date": "2025-08-12",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Alex is one of the best tech writers of the past decade, and I’m honored to have him join us.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2025-08-12T16:43:27.000Z"
+    },
+    {
+      "id": "x:2092701180816498749",
+      "url": "https://x.com/eriktorenberg/status/2092701180816498749",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-08-26",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "Stoked to have @jiratickets join. We are hiring the best posters we can find.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-08-26T19:50:16.000Z"
+    },
+    {
+      "id": "x:2018756491386204476",
+      "url": "https://x.com/andreasklinger/status/2018756491386204476",
+      "author_id": "person:andreasklinger",
+      "date": "2026-02-03",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "@PhilippSpiess was react core team, at tailwind, sourcegraph, and Nicolas is engineering leader at Gitlab – both are super talented.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2026-02-03T18:40:28.000Z"
+    },
+    {
+      "id": "x:1704183243673850091",
+      "url": "https://x.com/sarmariewright/status/1704183243673850091",
+      "author_id": "person:sarmariewright",
+      "date": "2023-09-19",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "So thankful to @ahiggz for her leadership and to have had the opportunity to learn from her",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "published_at": "2023-09-19T17:18:42.000Z"
+    },
+    {
+      "id": "profile:rahulmfg",
+      "url": "https://x.com/rahulmfg",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:rrhoover",
+      "url": "https://x.com/rrhoover",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:andreasklinger",
+      "url": "https://x.com/andreasklinger",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:rstankov",
+      "url": "https://x.com/rstankov",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:syswarren",
+      "url": "https://x.com/syswarren",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:kevinwdavid",
+      "url": "https://x.com/kevinwdavid",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:sarmariewright",
+      "url": "https://x.com/sarmariewright",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:ahiggz",
+      "url": "https://x.com/ahiggz",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:devladinci",
+      "url": "https://x.com/DeVladinci",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:rajivayyangar",
+      "url": "https://x.com/rajivayyangar",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:eriktorenberg",
+      "url": "https://x.com/eriktorenberg",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:david__booth",
+      "url": "https://x.com/david__booth",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:droovg",
+      "url": "https://x.com/droovg",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:alex_danco",
+      "url": "https://x.com/Alex_Danco",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:minney_cat",
+      "url": "https://x.com/minney_cat",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:thedanigrant",
+      "url": "https://x.com/thedanigrant",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:dok2001",
+      "url": "https://x.com/dok2001",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:kvnwang",
+      "url": "https://x.com/kvnwang",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:hero-launches-for-businesses-shopify-import-catalog-cleanup-and-a-web-dashboard-302849991.html",
+      "url": "https://www.prweb.com/releases/hero-launches-for-businesses-shopify-import-catalog-cleanup-and-a-web-dashboard-302849991.html",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "company_announcement",
+      "observation_method": "Hero Stuff-issued announcement on PRWeb names Joshua Voydik as CEO and co-founder. Reviewed September 29, 2026.",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "profile:kaigradert",
+      "url": "https://x.com/kaigradert",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "profile:philippspiess",
+      "url": "https://x.com/PhilippSpiess",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "kind": "profile_bio",
+      "observation_method": "Public profile or relevant-people bio card in an inspected X thread"
+    },
+    {
+      "id": "x:2102450261247873489",
+      "url": "https://x.com/eriktorenberg/status/2102450261247873489",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-09-22",
+      "excerpt": "It's already been incredible working with you, we are so lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2069437709870059796",
+      "url": "https://x.com/eriktorenberg/status/2069437709870059796",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-06-23",
+      "excerpt": "Welcome Josh! We are so lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2049550409170379214",
+      "url": "https://x.com/eriktorenberg/status/2049550409170379214",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-04-29",
+      "excerpt": "We're lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2047349173411053590",
+      "url": "https://x.com/eriktorenberg/status/2047349173411053590",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-04-23",
+      "excerpt": "We are lucky to have you.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2052070544015790547",
+      "url": "https://x.com/eriktorenberg/status/2052070544015790547",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-05-06",
+      "excerpt": "We are so lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2089437647760761139",
+      "url": "https://x.com/eriktorenberg/status/2089437647760761139",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-08-17",
+      "excerpt": "This quarter we’ve hired some great people: … We’ve also spun out some great people",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2087613901739581836",
+      "url": "https://x.com/humford/status/2087613901739581836",
+      "author_id": "person:humford",
+      "date": "2026-08-12",
+      "excerpt": "Thank you for believing in me and I know we'll be working together again soon.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2089450846023229452",
+      "url": "https://x.com/chrisjbakke/status/2089450846023229452",
+      "author_id": "person:chrisjbakke",
+      "date": "2026-08-17",
+      "excerpt": "you should try very hard to work with @eriktorenberg + New Media. They're insanely good at what they do.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103503644385751351",
+      "url": "https://x.com/brookemrtn/status/2103503644385751351",
+      "author_id": "person:brookemrtn",
+      "date": "2026-09-25",
+      "excerpt": "Had so much fun building this with @eriktorenberg @david__booth @droovg and the a16z team.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2102820021642858600",
+      "url": "https://x.com/david__booth/status/2102820021642858600",
+      "author_id": "person:david__booth",
+      "date": "2026-09-23",
+      "excerpt": "There's a killer crew involved already",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2076411247864713708",
+      "url": "https://x.com/eriktorenberg/status/2076411247864713708",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-07-12",
+      "excerpt": "I’d equally recommend “Groundbreakers” retreat and other courses by @artofaccomp and more generally watching and reading @FU_joehudson’s work",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103493993866879012",
+      "url": "https://x.com/droovg/status/2103493993866879012",
+      "author_id": "person:droovg",
+      "date": "2026-09-25",
+      "excerpt": "a single person taking a chance on me when they probably shouldn't have @liangsays",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103502546249884113",
+      "url": "https://x.com/liangsays/status/2103502546249884113",
+      "author_id": "person:liangsays",
+      "date": "2026-09-25",
+      "excerpt": "seeing your arc has been just unbelievable and insane",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103508294010851509",
+      "url": "https://x.com/droovg/status/2103508294010851509",
+      "author_id": "person:droovg",
+      "date": "2026-09-25",
+      "excerpt": "so happy to be working together again ❤️",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103969644034089277",
+      "url": "https://x.com/david__booth/status/2103969644034089277",
+      "author_id": "person:david__booth",
+      "date": "2026-09-26",
+      "excerpt": "i would totally cosign @droovg",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2087617976547905979",
+      "url": "https://x.com/liangsays/status/2087617976547905979",
+      "author_id": "person:liangsays",
+      "date": "2026-08-12",
+      "excerpt": "henry is an excellent orator, thinker, partner and someone i deeply admire",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2087618267485774000",
+      "url": "https://x.com/humford/status/2087618267485774000",
+      "author_id": "person:humford",
+      "date": "2026-08-12",
+      "excerpt": "much love man. blown away by what you and the team have been building, and hope to make you proud.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2069460281303110090",
+      "url": "https://x.com/liangsays/status/2069460281303110090",
+      "author_id": "person:liangsays",
+      "date": "2026-06-23",
+      "excerpt": "i’m excited to work alongside @ChrisJBakke @netcapgirl @theojaffee @schisofrenia @gbrl_dick and @knowerofmarkets",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2092366965696512047",
+      "url": "https://x.com/thedanigrant/status/2092366965696512047",
+      "author_id": "person:thedanigrant",
+      "date": "2026-08-25",
+      "excerpt": "huge @clairevo fan 😃 and she's starting a new co helping dev & product teams build even more w/ AI",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:1984097124381069770",
+      "url": "https://x.com/clairevo/status/1984097124381069770",
+      "author_id": "person:clairevo",
+      "date": "2025-10-31",
+      "excerpt": "Meetings with @thedanigrant are a unparalleled delight",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103497809517502884",
+      "url": "https://x.com/brookemrtn/status/2103497809517502884",
+      "author_id": "person:brookemrtn",
+      "date": "2026-09-25",
+      "excerpt": "@droovg MVP",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103513498361995391",
+      "url": "https://x.com/david__booth/status/2103513498361995391",
+      "author_id": "person:david__booth",
+      "date": "2026-09-25",
+      "excerpt": "hopped on the @a16z pod with @eriktorenberg, @omooretweets, @joshelman to chat about @cosign",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "profile:zeldapoem",
+      "url": "https://x.com/zeldapoem",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:liangsays",
+      "url": "https://x.com/liangsays",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:chrisjbakke",
+      "url": "https://x.com/chrisjbakke",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:netcapgirl",
+      "url": "https://x.com/netcapgirl",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:knowerofmarkets",
+      "url": "https://x.com/knowerofmarkets",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:joshelman",
+      "url": "https://x.com/joshelman",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:saltzman_jason",
+      "url": "https://x.com/saltzman_jason",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:lishali88",
+      "url": "https://x.com/lishali88",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:jesslionness",
+      "url": "https://x.com/jesslionness",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:brookemrtn",
+      "url": "https://x.com/brookemrtn",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:jessicarwolf",
+      "url": "https://x.com/jessicarwolf",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:kareeening",
+      "url": "https://x.com/kareeening",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:mikemcg0",
+      "url": "https://x.com/mikemcg0",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:lukedenatale",
+      "url": "https://x.com/lukedenatale",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:humford",
+      "url": "https://x.com/humford",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:davideoks",
+      "url": "https://x.com/davideoks",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:fu_joehudson",
+      "url": "https://x.com/fu_joehudson",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "x:1787900954907652459",
+      "url": "https://x.com/joshuavoydik/status/1787900954907652459",
+      "author_id": "person:joshuavoydik",
+      "date": "2024-05-07",
+      "published_at": "2024-05-07T17:42:59.000Z",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "So excited to welcome @rahulmfg to the Hero team 😇 … Rahul is a gem (and can ship) 🚢",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X post inspected in Chrome; hiring announcement explicitly welcomes Rahul to Hero and praises his ability to ship."
+    }
+  ],
+  "display": {
+    "node_shape": "circle",
+    "company_image_source": "X profile image",
+    "colors": {
+      "vouch": "#7c3aed",
+      "praise": "#0d9488",
+      "worked_with": "#2563eb",
+      "affiliation": "#94a3b8",
+      "career_support": "#d97706",
+      "acknowledgment": "#a8a29e"
+    },
+    "default_types": [
+      "vouch",
+      "praise",
+      "affiliation"
+    ],
+    "career_support_direction": "Evidence author credits target with support; do not reverse into an endorsement of the author."
+  },
+  "limitations": [
+    "Candidate rows require source review before being presented as verified.",
+    "Public endorsements are attributed opinions, not assessments of hireability.",
+    "An affiliation does not establish direct collaboration.",
+    "Current means stated in the bio at collection; hiring announcements use at_source_date unless refreshed.",
+    "Some image URLs are missing and X-hosted images can change or fail.",
+    "Sampling is centered on Rahul, Product Hunt, Cosign and related public networks; coverage is uneven."
+  ]
+}

@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.*
+
+# Build output and caches
+.next/
+out/
+dist/
+build/
+coverage/
+.turbo/
+.cache/
+*.tsbuildinfo
+next-env.d.ts
+.wrangler/
+.open-next/
+
+# Local environment and credentials
+.env*
+.dev.vars*
+!.env.example
+!.env.*.example
+!.dev.vars.example
+*.pem
+*.key
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo
+
+# Python tooling used for dataset preparation
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/

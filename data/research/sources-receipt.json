@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "vouch-graph-dataset",
+      "title": "Collected MVP graph",
+      "queries": [
+        {
+          "id": "collected-records",
+          "source": {
+            "label": "Public X graph research",
+            "files": [
+              {
+                "label": "graph.json"
+              },
+              {
+                "label": "quality-summary.json"
+              },
+              {
+                "label": "SUMMARY.md"
+              }
+            ],
+            "metricDefinitions": [
+              {
+                "label": "Relationship events",
+                "definition": "Each person-to-person event is one author–recipient relation supported by an original post. One post can credit several recipients."
+              }
+            ],
+            "caveats": [
+              "The complete graph contains one unverified company affiliation. The reviewed graph excludes it.",
+              "Six worked-with edges reuse endorsement evidence; they are not additional vouches.",
+              "Two organization profile images remain unresolved. Image URLs were observed, not downloaded."
+            ],
+            "evidenceFlow": [
+              {
+                "kind": "source",
+                "title": "Discovery and source review",
+                "detail": "Grok supplied two discovery batches. All 27 original posts behind the 33 person-to-person events were independently read in X."
+              },
+              {
+                "kind": "validation",
+                "title": "Graph integrity",
+                "detail": "The build checked unique node/edge IDs, duplicate person–post relations, edge endpoint integrity, and source references. All checks passed."
+              }
+            ]
+          },
+          "columns": [
+            "item",
+            "count"
+          ],
+          "rows": [
+            {
+              "item": "People",
+              "count": 32
+            },
+            {
+              "item": "Organizations",
+              "count": 18
+            },
+            {
+              "item": "Vouches and work praise",
+              "count": 23
+            },
+            {
+              "item": "Career support / mentorship",
+              "count": 9
+            },
+            {
+              "item": "Brief acknowledgment",
+              "count": 1
+            },
+            {
+              "item": "Affiliation records",
+              "count": 47
+            },
+            {
+              "item": "Observed X profile-image URLs",
+              "count": 48
+            }
+          ],
+          "reportingPeriod": "Public posts sampled through September 29, 2026"
+        }
+      ]
+    }
+  ]
+}

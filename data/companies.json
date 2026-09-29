@@ -1,0 +1,191 @@
+[
+  {
+    "id": "org:producthunt",
+    "type": "organization",
+    "name": "Product Hunt",
+    "handle": "ProductHunt",
+    "website": "https://www.producthunt.com/",
+    "profile_url": "https://x.com/ProductHunt",
+    "image_url": "https://pbs.twimg.com/profile_images/1772624223195873280/pqadeFo8_400x400.jpg"
+  },
+  {
+    "id": "org:herostuff",
+    "type": "organization",
+    "name": "Hero Stuff",
+    "handle": "herostuffdotcom",
+    "website": "https://www.herostuff.com/",
+    "profile_url": "https://x.com/herostuffdotcom",
+    "image_url": "https://pbs.twimg.com/profile_images/1932831628654678016/QRRpMvj1_400x400.jpg"
+  },
+  {
+    "id": "org:cosign",
+    "type": "organization",
+    "name": "Cosign",
+    "handle": "cosign",
+    "website": "https://cosign.co/",
+    "profile_url": "https://x.com/cosign",
+    "image_url": "https://pbs.twimg.com/profile_images/2103200849015316480/x0fD5h4l_400x400.jpg"
+  },
+  {
+    "id": "org:a16z",
+    "type": "organization",
+    "name": "a16z",
+    "handle": "a16z",
+    "website": "https://a16z.com/",
+    "profile_url": "https://x.com/a16z",
+    "image_url": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_400x400.png"
+  },
+  {
+    "id": "org:weekendfund",
+    "type": "organization",
+    "name": "Weekend Fund",
+    "handle": "WeekendFund",
+    "website": "https://weekend.fund/",
+    "profile_url": "https://x.com/WeekendFund",
+    "image_url": "https://pbs.twimg.com/profile_images/1041419240408903680/pO44UPB5_400x400.jpg"
+  },
+  {
+    "id": "org:prototype",
+    "type": "organization",
+    "name": "PROTOTYPE",
+    "handle": "prototype_cap",
+    "website": "https://prototypecap.com/",
+    "profile_url": "https://x.com/prototype_cap",
+    "image_url": "https://pbs.twimg.com/profile_images/2013177007522140161/tXxAG6SO_400x400.jpg"
+  },
+  {
+    "id": "org:ondeck",
+    "type": "organization",
+    "name": "On Deck",
+    "handle": "beondeck",
+    "website": null,
+    "profile_url": "https://x.com/beondeck",
+    "image_url": "https://pbs.twimg.com/profile_images/1864881345543180288/w5D8bY6D_400x400.jpg",
+    "notes": "The @beondeck profile now says 'On Deck now ODF' and points to @joinodf. Retained as the historical On Deck affiliation node."
+  },
+  {
+    "id": "org:angellist",
+    "type": "organization",
+    "name": "AngelList",
+    "handle": "AngelList",
+    "website": "https://angellist.com/",
+    "profile_url": "https://x.com/AngelList",
+    "image_url": "https://pbs.twimg.com/profile_images/1592528500065550336/u4Ew5lUn_400x400.jpg"
+  },
+  {
+    "id": "org:cloudflare",
+    "type": "organization",
+    "name": "Cloudflare",
+    "handle": "cloudflare",
+    "website": "https://cloudflare.com/",
+    "profile_url": "https://x.com/cloudflare",
+    "image_url": "https://pbs.twimg.com/profile_images/2016613099034345472/zHWjcVEQ_400x400.jpg"
+  },
+  {
+    "id": "org:jam",
+    "type": "organization",
+    "name": "Jam",
+    "handle": "jamdotdev",
+    "website": "https://jam.dev/",
+    "profile_url": "https://x.com/jamdotdev",
+    "image_url": "https://pbs.twimg.com/profile_images/2080338998929846272/pPWghBgQ_400x400.png"
+  },
+  {
+    "id": "org:sword",
+    "type": "organization",
+    "name": "Sword Health",
+    "handle": "swordhealth",
+    "website": null,
+    "profile_url": "https://x.com/swordhealth",
+    "image_url": null,
+    "notes": "Referenced by Kevin Wang's public bio, but https://x.com/swordhealth displayed 'This account doesn’t exist' on 2026-09-29. Image unresolved; do not infer a replacement handle."
+  },
+  {
+    "id": "org:hostedai",
+    "type": "organization",
+    "name": "Hosted AI",
+    "handle": "hosted_ai",
+    "website": "https://hosted.ai/",
+    "profile_url": "https://x.com/hosted_ai",
+    "image_url": "https://pbs.twimg.com/profile_images/2044310385852067841/ivf91aea_400x400.jpg"
+  },
+  {
+    "id": "org:justpoint",
+    "type": "organization",
+    "name": "Justpoint",
+    "handle": "Justpoint",
+    "website": "https://justpoint.com/",
+    "profile_url": "https://x.com/Justpoint",
+    "image_url": "https://pbs.twimg.com/profile_images/2006000724434440192/6rydOHt8_400x400.jpg"
+  },
+  {
+    "id": "org:standardbots",
+    "type": "organization",
+    "name": "Standard Bots",
+    "handle": "StandardBots",
+    "website": "https://standardbots.com/",
+    "profile_url": "https://x.com/StandardBots",
+    "image_url": "https://pbs.twimg.com/profile_images/1638670298685005824/Ifc5R_8u_400x400.jpg"
+  },
+  {
+    "id": "org:tandem",
+    "type": "organization",
+    "name": "Tandem",
+    "handle": "Tandem",
+    "website": "https://tandem.chat/",
+    "profile_url": "https://x.com/Tandem",
+    "image_url": "https://pbs.twimg.com/profile_images/1290521474441175040/afdtLacI_400x400.jpg"
+  },
+  {
+    "id": "org:lighthouse",
+    "type": "organization",
+    "name": "Lighthouse",
+    "handle": "lighthousehq_",
+    "website": "https://lighthousehq.com/",
+    "profile_url": "https://x.com/lighthousehq_",
+    "image_url": "https://pbs.twimg.com/profile_images/2084779577772281856/BfuRwyBv_400x400.jpg"
+  },
+  {
+    "id": "org:openai",
+    "type": "organization",
+    "name": "OpenAI",
+    "handle": "OpenAI",
+    "website": "https://openai.com/",
+    "profile_url": "https://x.com/OpenAI",
+    "image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg"
+  },
+  {
+    "id": "org:livo",
+    "type": "organization",
+    "name": "LIVO",
+    "handle": null,
+    "website": "https://livo.me/",
+    "profile_url": null,
+    "image_url": null,
+    "notes": "No official X handle/profile image resolved in this pass."
+  },
+  {
+    "id": "org:mtslive",
+    "type": "organization",
+    "name": "MTS",
+    "handle": "mtslive",
+    "profile_url": "https://x.com/mtslive",
+    "image_url": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_400x400.jpg"
+  },
+  {
+    "id": "org:theacademysf",
+    "type": "organization",
+    "name": "Horowitz Andreessen Academy",
+    "handle": "theacademysf",
+    "profile_url": "https://x.com/theacademysf",
+    "image_url": "https://pbs.twimg.com/profile_images/2102133530180673536/njGE5SXw_400x400.jpg"
+  },
+  {
+    "id": "org:artofaccomp",
+    "type": "organization",
+    "name": "The Art of Accomplishment",
+    "handle": "artofaccomp",
+    "profile_url": "https://x.com/artofaccomp",
+    "image_url": "https://pbs.twimg.com/profile_images/1546963329406550018/DEurIPcQ_400x400.jpg"
+  }
+]

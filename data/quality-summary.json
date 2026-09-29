@@ -1,0 +1,34 @@
+{
+  "people": 53,
+  "companies": 21,
+  "person_relationship_events": 65,
+  "distinct_post_sources": 50,
+  "edge_types": {
+    "vouch": 14,
+    "career_support": 11,
+    "acknowledgment": 1,
+    "praise": 39,
+    "affiliation": 68,
+    "worked_with": 17
+  },
+  "verification": {
+    "source_reviewed": 150
+  },
+  "person_event_verification": {
+    "source_reviewed": 65
+  },
+  "nodes_with_images": 72,
+  "connected_component_sizes": [
+    66,
+    3,
+    3,
+    2
+  ],
+  "checks": {
+    "unique_node_ids": true,
+    "unique_edge_ids": true,
+    "no_orphan_edges": true,
+    "source_references_resolve": true,
+    "no_duplicate_person_post_edges": true
+  }
+}

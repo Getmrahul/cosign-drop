@@ -1,0 +1,151 @@
+id,source,target,type,category,role,temporal_status,verification_status,source_urls
+E01,person:rrhoover,person:rahulmfg,vouch,firsthand_work_endorsement,,,source_reviewed,https://x.com/rrhoover/status/1986817190813647119
+E02,person:andreasklinger,person:rahulmfg,vouch,firsthand_work_endorsement,,,source_reviewed,https://x.com/andreasklinger/status/1726852451444346976
+E03,person:rstankov,person:rahulmfg,vouch,firsthand_work_endorsement,,,source_reviewed,https://x.com/rstankov/status/1779169370406547867
+E04,person:rahulmfg,person:kevinwdavid,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/rahulmfg/status/2103539621489774876
+E05,person:rahulmfg,person:rrhoover,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/rahulmfg/status/2103539621489774876
+E06,person:rahulmfg,person:andreasklinger,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/rahulmfg/status/2103539621489774876
+E07,person:rahulmfg,person:rstankov,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/rahulmfg/status/2103539621489774876
+E08,person:rrhoover,person:rahulmfg,acknowledgment,general_professional_endorsement,,,source_reviewed,https://x.com/rrhoover/status/2103599162721722529
+E09,person:rahulmfg,person:andreasklinger,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/rahulmfg/status/1726853675556188256
+E10,person:kevinwdavid,person:rrhoover,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/kevinwdavid/status/1986542173530235076
+E11,person:rrhoover,person:jamiepeak,vouch,hiring_recommendation,,,source_reviewed,https://x.com/rrhoover/status/2084666290745303271
+E12,person:rstankov,person:syswarren,vouch,firsthand_work_endorsement,,,source_reviewed,https://x.com/rstankov/status/1686095629934559232
+E13,person:andreasklinger,person:lukas_m_ziegler,vouch,general_professional_endorsement,,,source_reviewed,https://x.com/andreasklinger/status/2080624014519644269
+E14,person:amolkmr05,person:rahulmfg,praise,specific_contribution_praise,,,source_reviewed,https://x.com/amolkmr05/status/955534946701000704
+E15,person:thedanigrant,person:dok2001,career_support,mentorship_endorsement,,,source_reviewed,https://x.com/thedanigrant/status/2103511607246836071
+E16,person:kvnwang,person:vswordh,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/kvnwang/status/2103870478729511383
+E17,person:portian1682,person:ditlev,career_support,career_support_acknowledgment,,,source_reviewed,https://x.com/PortiaN1682/status/2103798167728705570
+E18,person:ed_moraaaa,person:adilmania,vouch,would_work_with,,,source_reviewed,https://x.com/ed_moraaaa/status/2103656342418518302
+E19,person:sarmariewright,person:ahiggz,praise,specific_contribution_praise,,,source_reviewed,https://x.com/sarmariewright/status/1628041744922316800
+E20,person:sarmariewright,person:syswarren,praise,specific_contribution_praise,,,source_reviewed,https://x.com/sarmariewright/status/1628041744922316800
+E21,person:sarmariewright,person:devladinci,praise,specific_contribution_praise,,,source_reviewed,https://x.com/sarmariewright/status/1628041744922316800
+E22,person:sarmariewright,person:rahulmfg,praise,specific_contribution_praise,,,source_reviewed,https://x.com/sarmariewright/status/1628041744922316800
+E23,person:ahiggz,person:rajivayyangar,vouch,general_professional_endorsement,,,source_reviewed,https://x.com/ahiggz/status/1704179319176569222
+E24,person:rrhoover,person:syswarren,praise,specific_contribution_praise,,,source_reviewed,https://x.com/rrhoover/status/1686106685016846336
+E25,person:rrhoover,person:andreasklinger,vouch,general_professional_endorsement,,,source_reviewed,https://x.com/rrhoover/status/2013299287141093692
+E26,person:eriktorenberg,person:gaby_goldberg,vouch,general_professional_endorsement,,,source_reviewed,https://x.com/eriktorenberg/status/2056428104520712316
+E27,person:eriktorenberg,person:gbrl_dick,praise,specific_skill_praise,,,source_reviewed,https://x.com/eriktorenberg/status/2026408081806987667
+E28,person:david__booth,person:gbrl_dick,vouch,general_professional_endorsement,,,source_reviewed,https://x.com/david__booth/status/2026414829649670489
+E29,person:david__booth,person:minney_cat,vouch,firsthand_work_endorsement,,,source_reviewed,https://x.com/david__booth/status/1772324925963125009
+E30,person:eriktorenberg,person:alex_danco,praise,specific_skill_praise,,,source_reviewed,https://x.com/eriktorenberg/status/1955309164860936369
+E31,person:eriktorenberg,person:jiratickets,praise,hiring_praise,,,source_reviewed,https://x.com/eriktorenberg/status/2092701180816498749
+E32,person:andreasklinger,person:philippspiess,praise,specific_skill_praise,,,source_reviewed,https://x.com/andreasklinger/status/2018756491386204476
+E33,person:sarmariewright,person:ahiggz,praise,leadership_praise,,,source_reviewed,https://x.com/sarmariewright/status/1704183243673850091
+A001,person:rahulmfg,org:herostuff,affiliation,,Founding engineer,current,source_reviewed,https://x.com/rahulmfg
+A002,person:rahulmfg,org:producthunt,affiliation,,Full-stack engineer,historical,source_reviewed,https://x.com/rahulmfg
+A003,person:rrhoover,org:producthunt,affiliation,,Founder,historical,source_reviewed,https://x.com/rrhoover
+A004,person:rrhoover,org:weekendfund,affiliation,,Investor,current,source_reviewed,https://x.com/rrhoover
+A005,person:andreasklinger,org:prototype,affiliation,,Investor,current,source_reviewed,https://x.com/andreasklinger
+A006,person:andreasklinger,org:producthunt,affiliation,,,historical,source_reviewed,https://x.com/andreasklinger
+A007,person:andreasklinger,org:angellist,affiliation,,,historical,source_reviewed,https://x.com/andreasklinger
+A008,person:andreasklinger,org:ondeck,affiliation,,,historical,source_reviewed,https://x.com/andreasklinger
+A009,person:rstankov,org:producthunt,affiliation,,Head of Engineering,historical,source_reviewed,https://x.com/rstankov
+A010,person:rstankov,org:livo,affiliation,,CTO and cofounder,current,source_reviewed,https://x.com/rstankov
+A011,person:syswarren,org:producthunt,affiliation,,Head of Design,historical,source_reviewed,https://x.com/syswarren
+A012,person:syswarren,org:angellist,affiliation,,Design,historical,source_reviewed,https://x.com/syswarren
+A013,person:kevinwdavid,org:angellist,affiliation,,Community lead,historical,source_reviewed,https://x.com/kevinwdavid
+A014,person:kevinwdavid,org:producthunt,affiliation,,Hunter / community contributor,unknown,source_reviewed,https://x.com/kevinwdavid
+A015,person:sarmariewright,org:producthunt,affiliation,,Head of Content,historical,source_reviewed,https://x.com/sarmariewright
+A016,person:sarmariewright,org:justpoint,affiliation,,Director of Product Marketing,current,source_reviewed,https://x.com/sarmariewright
+A017,person:ahiggz,org:producthunt,affiliation,,CEO,historical,source_reviewed,https://x.com/ahiggz/status/1704179319176569222
+A018,person:ahiggz,org:standardbots,affiliation,,CSO,current,source_reviewed,https://x.com/ahiggz
+A019,person:devladinci,org:producthunt,affiliation,,Engineering lead,historical,source_reviewed,https://x.com/DeVladinci
+A020,person:rajivayyangar,org:producthunt,affiliation,,CEO,current,source_reviewed,https://x.com/rajivayyangar
+A021,person:rajivayyangar,org:tandem,affiliation,,Cofounder,historical,source_reviewed,https://x.com/rajivayyangar
+A022,person:eriktorenberg,org:a16z,affiliation,,General Partner,current,source_reviewed,https://x.com/eriktorenberg
+A023,person:eriktorenberg,org:cosign,affiliation,,Co-initiator,current,source_reviewed,https://x.com/eriktorenberg
+A024,person:david__booth,org:a16z,affiliation,,"Partner, Ecosystem",current,source_reviewed,https://x.com/david__booth
+A025,person:david__booth,org:cosign,affiliation,,Builder,current,source_reviewed,https://x.com/david__booth
+A026,person:david__booth,org:ondeck,affiliation,,Cofounder and CEO,historical,source_reviewed,https://x.com/david__booth
+A027,person:david__booth,org:angellist,affiliation,,,historical,source_reviewed,https://x.com/david__booth
+A028,person:droovg,org:cosign,affiliation,,Builder,current,source_reviewed,https://x.com/droovg
+A029,person:droovg,org:a16z,affiliation,,Product,current,source_reviewed,https://x.com/droovg
+A030,person:gaby_goldberg,org:a16z,affiliation,,"Partner, New Media",at_source_date,source_reviewed,https://x.com/eriktorenberg/status/2056428104520712316
+A031,person:gbrl_dick,org:a16z,affiliation,,New Media team,at_source_date,source_reviewed,https://x.com/eriktorenberg/status/2026408081806987667
+A032,person:alex_danco,org:a16z,affiliation,,Editor at Large,current,source_reviewed,https://x.com/Alex_Danco
+A033,person:jiratickets,org:a16z,affiliation,,New Media team,at_source_date,source_reviewed,https://x.com/eriktorenberg/status/2092701180816498749
+A034,person:minney_cat,org:ondeck,affiliation,,,historical,source_reviewed,https://x.com/david__booth/status/1772324925963125009
+A035,person:minney_cat,org:lighthouse,affiliation,,,current,source_reviewed,https://x.com/minney_cat
+A036,person:thedanigrant,org:a16z,affiliation,,Works with founders,current,source_reviewed,https://x.com/thedanigrant
+A037,person:thedanigrant,org:jam,affiliation,,CEO,historical,source_reviewed,https://x.com/thedanigrant
+A038,person:dok2001,org:cloudflare,affiliation,,CTO,current,source_reviewed,https://x.com/dok2001
+A039,person:kvnwang,org:sword,affiliation,,,current,source_reviewed,https://x.com/kvnwang
+A040,person:portian1682,org:hostedai,affiliation,,Founding BD,unknown,source_reviewed,https://x.com/PortiaN1682/status/2103798167728705570
+A041,person:ditlev,org:hostedai,affiliation,,Cofounder and CEO,at_source_date,source_reviewed,https://x.com/PortiaN1682/status/2103798167728705570
+A042,person:joshuavoydik,org:herostuff,affiliation,,Cofounder and CEO,current,source_reviewed,https://www.prweb.com/releases/hero-launches-for-businesses-shopify-import-catalog-cleanup-and-a-web-dashboard-302849991.html
+A043,person:kaigradert,org:herostuff,affiliation,,Cofounder,current,source_reviewed,https://x.com/kaigradert
+A044,person:kaigradert,org:producthunt,affiliation,,,historical,source_reviewed,https://x.com/kaigradert
+A045,person:kaigradert,org:angellist,affiliation,,,historical,source_reviewed,https://x.com/kaigradert
+A046,person:philippspiess,org:openai,affiliation,,Engineer,current,source_reviewed,https://x.com/PhilippSpiess
+A047,person:vswordh,org:sword,affiliation,,Hired Kevin Wang (as reported by Kevin),at_source_date,source_reviewed,https://x.com/kvnwang/status/2103870478729511383
+W-E01,person:rrhoover,person:rahulmfg,worked_with,,,,source_reviewed,https://x.com/rrhoover/status/1986817190813647119
+W-E02,person:andreasklinger,person:rahulmfg,worked_with,,,,source_reviewed,https://x.com/andreasklinger/status/1726852451444346976
+W-E03,person:rstankov,person:rahulmfg,worked_with,,,,source_reviewed,https://x.com/rstankov/status/1779169370406547867
+W-E11,person:rrhoover,person:jamiepeak,worked_with,,,,source_reviewed,https://x.com/rrhoover/status/2084666290745303271
+W-E12,person:rstankov,person:syswarren,worked_with,,,,source_reviewed,https://x.com/rstankov/status/1686095629934559232
+W-E29,person:david__booth,person:minney_cat,worked_with,,,,source_reviewed,https://x.com/david__booth/status/1772324925963125009
+X001,person:eriktorenberg,person:zeldapoem,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2102450261247873489
+X002,person:eriktorenberg,person:joshelman,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2069437709870059796
+X003,person:eriktorenberg,person:saltzman_jason,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2049550409170379214
+X004,person:eriktorenberg,person:lishali88,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2047349173411053590
+X005,person:eriktorenberg,person:jesslionness,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2052070544015790547
+X006,person:eriktorenberg,person:jessicarwolf,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X007,person:eriktorenberg,person:kareeening,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X008,person:eriktorenberg,person:mikemcg0,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X009,person:eriktorenberg,person:brookemrtn,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X010,person:eriktorenberg,person:lukedenatale,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X011,person:eriktorenberg,person:liangsays,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X012,person:eriktorenberg,person:netcapgirl,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X013,person:eriktorenberg,person:humford,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X014,person:eriktorenberg,person:davideoks,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X015,person:eriktorenberg,person:chrisjbakke,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X016,person:eriktorenberg,person:knowerofmarkets,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2089437647760761139
+X017,person:humford,person:eriktorenberg,career_support,,,,source_reviewed,https://x.com/humford/status/2087613901739581836
+X018,person:chrisjbakke,person:eriktorenberg,vouch,,,,source_reviewed,https://x.com/chrisjbakke/status/2089450846023229452
+X019,person:brookemrtn,person:eriktorenberg,worked_with,,,,source_reviewed,https://x.com/brookemrtn/status/2103503644385751351
+X020,person:brookemrtn,person:david__booth,worked_with,,,,source_reviewed,https://x.com/brookemrtn/status/2103503644385751351
+X021,person:brookemrtn,person:droovg,worked_with,,,,source_reviewed,https://x.com/brookemrtn/status/2103503644385751351
+X022,person:david__booth,person:clairevo,praise,,,,source_reviewed,https://x.com/david__booth/status/2102820021642858600
+X023,person:david__booth,person:sebgoddijn,praise,,,,source_reviewed,https://x.com/david__booth/status/2102820021642858600
+X024,person:david__booth,person:ow,praise,,,,source_reviewed,https://x.com/david__booth/status/2102820021642858600
+X025,person:david__booth,person:annimaniac,praise,,,,source_reviewed,https://x.com/david__booth/status/2102820021642858600
+X026,person:eriktorenberg,person:fu_joehudson,praise,,,,source_reviewed,https://x.com/eriktorenberg/status/2076411247864713708
+X027,person:droovg,person:liangsays,career_support,,,,source_reviewed,https://x.com/droovg/status/2103493993866879012
+X028,person:liangsays,person:droovg,praise,,,,source_reviewed,https://x.com/liangsays/status/2103502546249884113
+X029,person:droovg,person:liangsays,worked_with,,,,source_reviewed,https://x.com/droovg/status/2103508294010851509
+X030,person:david__booth,person:droovg,vouch,,,,source_reviewed,https://x.com/david__booth/status/2103969644034089277
+X031,person:liangsays,person:humford,praise,,,,source_reviewed,https://x.com/liangsays/status/2087617976547905979
+X032,person:humford,person:liangsays,praise,,,,source_reviewed,https://x.com/humford/status/2087618267485774000
+X033,person:liangsays,person:chrisjbakke,worked_with,,,,source_reviewed,https://x.com/liangsays/status/2069460281303110090
+X034,person:liangsays,person:netcapgirl,worked_with,,,,source_reviewed,https://x.com/liangsays/status/2069460281303110090
+X035,person:liangsays,person:gbrl_dick,worked_with,,,,source_reviewed,https://x.com/liangsays/status/2069460281303110090
+X036,person:liangsays,person:knowerofmarkets,worked_with,,,,source_reviewed,https://x.com/liangsays/status/2069460281303110090
+X037,person:thedanigrant,person:clairevo,praise,,,,source_reviewed,https://x.com/thedanigrant/status/2092366965696512047
+X038,person:clairevo,person:thedanigrant,praise,,,,source_reviewed,https://x.com/clairevo/status/1984097124381069770
+X039,person:brookemrtn,person:droovg,praise,,,,source_reviewed,https://x.com/brookemrtn/status/2103497809517502884
+X040,person:david__booth,person:joshelman,worked_with,,,,source_reviewed,https://x.com/david__booth/status/2103513498361995391
+X041,person:david__booth,person:eriktorenberg,worked_with,,,,source_reviewed,https://x.com/david__booth/status/2103513498361995391
+XA41,person:zeldapoem,org:theacademysf,affiliation,,Founding team,current,source_reviewed,https://x.com/zeldapoem
+XA42,person:liangsays,org:mtslive,affiliation,,Co-founder,current,source_reviewed,https://x.com/liangsays
+XA43,person:chrisjbakke,org:mtslive,affiliation,,Co-founder,current,source_reviewed,https://x.com/chrisjbakke
+XA44,person:netcapgirl,org:mtslive,affiliation,,Team,current,source_reviewed,https://x.com/netcapgirl
+XA45,person:knowerofmarkets,org:mtslive,affiliation,,Team,current,source_reviewed,https://x.com/knowerofmarkets
+XA46,person:joshelman,org:a16z,affiliation,,Partner,current,source_reviewed,https://x.com/joshelman
+XA47,person:saltzman_jason,org:a16z,affiliation,,Head of Insights,current,source_reviewed,https://x.com/saltzman_jason
+XA48,person:lishali88,org:a16z,affiliation,,"Partner, infrastructure and AI",current,source_reviewed,https://x.com/lishali88
+XA49,person:jesslionness,org:a16z,affiliation,,"Partner, American Dynamism",current,source_reviewed,https://x.com/jesslionness
+XA50,person:brookemrtn,org:a16z,affiliation,,Builder,current,source_reviewed,https://x.com/brookemrtn
+XA51,person:jessicarwolf,org:a16z,affiliation,,Partner,current,source_reviewed,https://x.com/jessicarwolf
+XA52,person:kareeening,org:a16z,affiliation,,Team,current,source_reviewed,https://x.com/kareeening
+XA53,person:mikemcg0,org:a16z,affiliation,,Writer,current,source_reviewed,https://x.com/mikemcg0
+XA54,person:lukedenatale,org:a16z,affiliation,,New Media,current,source_reviewed,https://x.com/lukedenatale
+XA55,person:humford,org:openai,affiliation,,Strategic Futures,current,source_reviewed,https://x.com/humford
+XA56,person:davideoks,org:openai,affiliation,,Team,current,source_reviewed,https://x.com/davideoks
+XA57,person:fu_joehudson,org:artofaccomp,affiliation,,Founder,current,source_reviewed,https://x.com/fu_joehudson
+XA58,person:brookemrtn,org:cosign,affiliation,,Built Cosign,at_source_date,source_reviewed,https://x.com/brookemrtn/status/2103503644385751351
+XA59,person:gbrl_dick,org:mtslive,affiliation,,Named MTS collaborator,at_source_date,source_reviewed,https://x.com/liangsays/status/2069460281303110090
+XA60,person:clairevo,org:a16z,affiliation,,Ops Engineering Founding Fellow,at_source_date,source_reviewed,https://x.com/david__booth/status/2102820021642858600
+XA61,person:sebgoddijn,org:a16z,affiliation,,Ops Engineering Founding Fellow,at_source_date,source_reviewed,https://x.com/david__booth/status/2102820021642858600
+J001,person:joshuavoydik,person:rahulmfg,praise,hiring_praise,,,source_reviewed,https://x.com/joshuavoydik/status/1787900954907652459
+W-J001,person:joshuavoydik,person:rahulmfg,worked_with,,,,source_reviewed,https://x.com/joshuavoydik/status/1787900954907652459

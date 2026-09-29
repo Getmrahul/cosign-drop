@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.wrangler/
+out/
+coverage/
+package-lock.json
+next-env.d.ts
+public/
+AGENTS.md
+CLAUDE.md
+*.tsbuildinfo
+
+# Preserve original conversation wording and formatting
+docs/conversation-transcript.md

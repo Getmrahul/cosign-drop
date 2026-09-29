@@ -1,0 +1,713 @@
+{
+  "people": [
+    [
+      "sarmariewright",
+      "Sarah Wright",
+      "Product marketer; formerly head of content at Product Hunt"
+    ],
+    [
+      "ahiggz",
+      "Ashley Higgins",
+      "CSO at Standard Bots; former Product Hunt CEO"
+    ],
+    [
+      "devladinci",
+      "Vlad",
+      "Engineer; former Product Hunt engineering lead"
+    ],
+    [
+      "rajivayyangar",
+      "Rajiv Ayyangar",
+      "Product Hunt CEO; Tandem cofounder"
+    ],
+    [
+      "gaby_goldberg",
+      "Gaby Goldberg",
+      "Partner on a16z New Media team"
+    ],
+    [
+      "gbrl_dick",
+      "Gabriel",
+      "a16z New Media team"
+    ],
+    [
+      "minney_cat",
+      "Minn",
+      "Lighthouse; formerly On Deck"
+    ],
+    [
+      "alex_danco",
+      "Alex Danco",
+      "Editor at Large at a16z"
+    ],
+    [
+      "jiratickets",
+      "JT",
+      "a16z New Media team"
+    ],
+    [
+      "philippspiess",
+      "Philipp Spiess",
+      "Engineer working on Codex/ChatGPT at OpenAI"
+    ]
+  ],
+  "images": {
+    "rahulmfg": "1899821457234083840/G-0A_iO__400x400.jpg",
+    "rrhoover": "1289046130366406656/-s-fxoLn_x96.jpg",
+    "andreasklinger": "2015410369057923073/8GtFzk-6_x96.jpg",
+    "rstankov": "1097025929422032896/kSBIJ78u_x96.png",
+    "sarmariewright": "1070003064227037184/E4_5EvOA_x96.jpg",
+    "ahiggz": "1776258557815443456/AEUsrv9I_x96.jpg",
+    "amolkmr05": "2089384800440156160/c3_dLJNm_x96.jpg",
+    "lukas_m_ziegler": "2076008715522568192/dUB1oyiU_normal.jpg",
+    "eriktorenberg": "1449117890955788292/x3DIqECG_x96.jpg",
+    "david__booth": "1809171042340118528/e7U4zSfE_x96.jpg",
+    "gaby_goldberg": "1607892756571238402/o6yI_kff_x96.jpg",
+    "gbrl_dick": "1783096673595781121/WzqwevfT_x96.jpg",
+    "alex_danco": "2013314547692539904/JJgVoXhL_normal.jpg",
+    "jiratickets": "1824537296353329152/o8ybAmSR_normal.jpg",
+    "adilmania": "2093478472673005568/TGmMP1qr_x96.jpg",
+    "thedanigrant": "1705365811471478784/xqlu5tsT_x96.jpg",
+    "ed_moraaaa": "2047459796584898560/pKZrpJYg_x96.jpg",
+    "kvnwang": "893163257464143872/LXpebsaT_x96.jpg",
+    "portian1682": "2073971987546787840/f_QDKain_x96.jpg",
+    "kevinwdavid": "1926800762744524800/1GRn8Iwo_x96.jpg",
+    "droovg": "2103970451592757248/SXVJ68Kn_400x400.jpg",
+    "kaigradert": "1611141360652021761/U-PJRx4d_400x400.jpg",
+    "joshuavoydik": "1905361802982248448/J6lEPb23_400x400.jpg",
+    "rajivayyangar": "1765796407414599680/vueRgeUy_400x400.jpg",
+    "devladinci": "1893543915929653248/C4gwQ8Lr_400x400.jpg",
+    "dok2001": "1933364396434001920/nNinLkYf_400x400.jpg",
+    "syswarren": "1666169691264503813/8vO3962W_400x400.jpg",
+    "jamiepeak": "1691560269749608448/RnIwp3iQ_400x400.jpg",
+    "minney_cat": "1680732139791478784/rbuAW6Nx_400x400.jpg",
+    "philippspiess": "2046863769247043585/2m9gPsN1_400x400.jpg",
+    "vswordh": "2053479270849130498/UKUvFFaZ_400x400.jpg",
+    "ditlev": "1652579907552137216/WNF7yr8M_400x400.jpg"
+  },
+  "companies": [
+    [
+      "producthunt",
+      "Product Hunt",
+      "ProductHunt",
+      "https://www.producthunt.com/",
+      "1772624223195873280/pqadeFo8_400x400.jpg"
+    ],
+    [
+      "herostuff",
+      "Hero Stuff",
+      "herostuffdotcom",
+      "https://www.herostuff.com/",
+      "1932831628654678016/QRRpMvj1_400x400.jpg"
+    ],
+    [
+      "cosign",
+      "Cosign",
+      "cosign",
+      "https://cosign.co/",
+      "2103200849015316480/x0fD5h4l_400x400.jpg"
+    ],
+    [
+      "a16z",
+      "a16z",
+      "a16z",
+      "https://a16z.com/",
+      "1919488160125616128/QAZXTMEj_400x400.png"
+    ],
+    [
+      "weekendfund",
+      "Weekend Fund",
+      "WeekendFund",
+      "https://weekend.fund/",
+      "1041419240408903680/pO44UPB5_400x400.jpg"
+    ],
+    [
+      "prototype",
+      "PROTOTYPE",
+      "prototype_cap",
+      "https://prototypecap.com/",
+      "2013177007522140161/tXxAG6SO_400x400.jpg"
+    ],
+    [
+      "ondeck",
+      "On Deck",
+      "beondeck",
+      null,
+      "1864881345543180288/w5D8bY6D_400x400.jpg"
+    ],
+    [
+      "angellist",
+      "AngelList",
+      "AngelList",
+      "https://angellist.com/",
+      "1592528500065550336/u4Ew5lUn_400x400.jpg"
+    ],
+    [
+      "cloudflare",
+      "Cloudflare",
+      "cloudflare",
+      "https://cloudflare.com/",
+      "2016613099034345472/zHWjcVEQ_400x400.jpg"
+    ],
+    [
+      "jam",
+      "Jam",
+      "jamdotdev",
+      "https://jam.dev/",
+      "2080338998929846272/pPWghBgQ_400x400.png"
+    ],
+    [
+      "sword",
+      "Sword Health",
+      "swordhealth",
+      null,
+      null
+    ],
+    [
+      "hostedai",
+      "Hosted AI",
+      "hosted_ai",
+      "https://hosted.ai/",
+      "2044310385852067841/ivf91aea_400x400.jpg"
+    ],
+    [
+      "justpoint",
+      "Justpoint",
+      "Justpoint",
+      "https://justpoint.com/",
+      "2006000724434440192/6rydOHt8_400x400.jpg"
+    ],
+    [
+      "standardbots",
+      "Standard Bots",
+      "StandardBots",
+      "https://standardbots.com/",
+      "1638670298685005824/Ifc5R_8u_400x400.jpg"
+    ],
+    [
+      "tandem",
+      "Tandem",
+      "Tandem",
+      "https://tandem.chat/",
+      "1290521474441175040/afdtLacI_400x400.jpg"
+    ],
+    [
+      "lighthouse",
+      "Lighthouse",
+      "lighthousehq_",
+      "https://lighthousehq.com/",
+      "2084779577772281856/BfuRwyBv_400x400.jpg"
+    ],
+    [
+      "openai",
+      "OpenAI",
+      "OpenAI",
+      "https://openai.com/",
+      "1885410181409820672/ztsaR0JW_400x400.jpg"
+    ],
+    [
+      "livo",
+      "LIVO",
+      null,
+      "https://livo.me/",
+      null
+    ]
+  ],
+  "reviewed_event_ids": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08",
+    "E09",
+    "E10",
+    "E11",
+    "E12",
+    "E13",
+    "E14",
+    "E15",
+    "E16",
+    "E17",
+    "E18",
+    "E19",
+    "E20",
+    "E21",
+    "E22",
+    "E23",
+    "E24",
+    "E25",
+    "E26",
+    "E27",
+    "E28",
+    "E29",
+    "E30",
+    "E31",
+    "E32",
+    "E33"
+  ],
+  "excerpt_overrides": {
+    "E02": "From intern to one of the most important engineers.",
+    "E04": "These people genuinely changed my life by betting on me ❤️",
+    "E05": "These people genuinely changed my life by betting on me ❤️",
+    "E06": "These people genuinely changed my life by betting on me ❤️",
+    "E07": "These people genuinely changed my life by betting on me ❤️",
+    "E11": "I’ve worked with him on a few projects and would rehire immediately if I had an opening.",
+    "E14": "you're one of the core members of Golden Kitty Awards team and that's remarkable...",
+    "E29": "Fortunately, I still had the opportunity to hire/work with her at On Deck… truly one of the best.",
+    "E10": "After a few emails, he took a bet on me.",
+    "E16": "But glad he took a chance and let me build some amazing products like Predict and Pulse",
+    "E17": "@ditlev Co founder and CEO of @hosted_ai took a chance on me",
+    "E18": "also he is a person I would work with."
+  },
+  "date_notes": "Post dates use UTC where available. X displays dates in the viewer's local timezone, which can differ by one calendar day.",
+  "affiliations": [
+    [
+      "rahulmfg",
+      "herostuff",
+      "Founding engineer",
+      "current",
+      "https://x.com/rahulmfg",
+      "source_reviewed"
+    ],
+    [
+      "rahulmfg",
+      "producthunt",
+      "Full-stack engineer",
+      "historical",
+      "https://x.com/rahulmfg",
+      "source_reviewed"
+    ],
+    [
+      "rrhoover",
+      "producthunt",
+      "Founder",
+      "historical",
+      "https://x.com/rrhoover",
+      "source_reviewed"
+    ],
+    [
+      "rrhoover",
+      "weekendfund",
+      "Investor",
+      "current",
+      "https://x.com/rrhoover",
+      "source_reviewed"
+    ],
+    [
+      "andreasklinger",
+      "prototype",
+      "Investor",
+      "current",
+      "https://x.com/andreasklinger",
+      "source_reviewed"
+    ],
+    [
+      "andreasklinger",
+      "producthunt",
+      null,
+      "historical",
+      "https://x.com/andreasklinger",
+      "source_reviewed"
+    ],
+    [
+      "andreasklinger",
+      "angellist",
+      null,
+      "historical",
+      "https://x.com/andreasklinger",
+      "source_reviewed"
+    ],
+    [
+      "andreasklinger",
+      "ondeck",
+      null,
+      "historical",
+      "https://x.com/andreasklinger",
+      "source_reviewed"
+    ],
+    [
+      "rstankov",
+      "producthunt",
+      "Head of Engineering",
+      "historical",
+      "https://x.com/rstankov",
+      "source_reviewed"
+    ],
+    [
+      "rstankov",
+      "livo",
+      "CTO and cofounder",
+      "current",
+      "https://x.com/rstankov",
+      "source_reviewed"
+    ],
+    [
+      "syswarren",
+      "producthunt",
+      "Head of Design",
+      "historical",
+      "https://x.com/syswarren",
+      "source_reviewed"
+    ],
+    [
+      "syswarren",
+      "angellist",
+      "Design",
+      "historical",
+      "https://x.com/syswarren",
+      "source_reviewed"
+    ],
+    [
+      "kevinwdavid",
+      "angellist",
+      "Community lead",
+      "historical",
+      "https://x.com/kevinwdavid",
+      "source_reviewed"
+    ],
+    [
+      "kevinwdavid",
+      "producthunt",
+      "Hunter / community contributor",
+      "unknown",
+      "https://x.com/kevinwdavid",
+      "source_reviewed"
+    ],
+    [
+      "sarmariewright",
+      "producthunt",
+      "Head of Content",
+      "historical",
+      "https://x.com/sarmariewright",
+      "source_reviewed"
+    ],
+    [
+      "sarmariewright",
+      "justpoint",
+      "Director of Product Marketing",
+      "current",
+      "https://x.com/sarmariewright",
+      "source_reviewed"
+    ],
+    [
+      "ahiggz",
+      "producthunt",
+      "CEO",
+      "historical",
+      "https://x.com/ahiggz/status/1704179319176569222",
+      "source_reviewed"
+    ],
+    [
+      "ahiggz",
+      "standardbots",
+      "CSO",
+      "current",
+      "https://x.com/ahiggz",
+      "source_reviewed"
+    ],
+    [
+      "devladinci",
+      "producthunt",
+      "Engineering lead",
+      "historical",
+      "https://x.com/DeVladinci",
+      "source_reviewed"
+    ],
+    [
+      "rajivayyangar",
+      "producthunt",
+      "CEO",
+      "current",
+      "https://x.com/rajivayyangar",
+      "source_reviewed"
+    ],
+    [
+      "rajivayyangar",
+      "tandem",
+      "Cofounder",
+      "historical",
+      "https://x.com/rajivayyangar",
+      "source_reviewed"
+    ],
+    [
+      "eriktorenberg",
+      "a16z",
+      "General Partner",
+      "current",
+      "https://x.com/eriktorenberg",
+      "source_reviewed"
+    ],
+    [
+      "eriktorenberg",
+      "cosign",
+      "Co-initiator",
+      "current",
+      "https://x.com/eriktorenberg",
+      "source_reviewed"
+    ],
+    [
+      "david__booth",
+      "a16z",
+      "Partner, Ecosystem",
+      "current",
+      "https://x.com/david__booth",
+      "source_reviewed"
+    ],
+    [
+      "david__booth",
+      "cosign",
+      "Builder",
+      "current",
+      "https://x.com/david__booth",
+      "source_reviewed"
+    ],
+    [
+      "david__booth",
+      "ondeck",
+      "Cofounder and CEO",
+      "historical",
+      "https://x.com/david__booth",
+      "source_reviewed"
+    ],
+    [
+      "david__booth",
+      "angellist",
+      null,
+      "historical",
+      "https://x.com/david__booth",
+      "source_reviewed"
+    ],
+    [
+      "droovg",
+      "cosign",
+      "Builder",
+      "current",
+      "https://x.com/droovg",
+      "source_reviewed"
+    ],
+    [
+      "droovg",
+      "a16z",
+      "Product",
+      "current",
+      "https://x.com/droovg",
+      "source_reviewed"
+    ],
+    [
+      "gaby_goldberg",
+      "a16z",
+      "Partner, New Media",
+      "at_source_date",
+      "https://x.com/eriktorenberg/status/2056428104520712316",
+      "source_reviewed"
+    ],
+    [
+      "gbrl_dick",
+      "a16z",
+      "New Media team",
+      "at_source_date",
+      "https://x.com/eriktorenberg/status/2026408081806987667",
+      "source_reviewed"
+    ],
+    [
+      "alex_danco",
+      "a16z",
+      "Editor at Large",
+      "current",
+      "https://x.com/Alex_Danco",
+      "source_reviewed"
+    ],
+    [
+      "jiratickets",
+      "a16z",
+      "New Media team",
+      "at_source_date",
+      "https://x.com/eriktorenberg/status/2092701180816498749",
+      "source_reviewed"
+    ],
+    [
+      "minney_cat",
+      "ondeck",
+      null,
+      "historical",
+      "https://x.com/david__booth/status/1772324925963125009",
+      "source_reviewed"
+    ],
+    [
+      "minney_cat",
+      "lighthouse",
+      null,
+      "current",
+      "https://x.com/minney_cat",
+      "source_reviewed"
+    ],
+    [
+      "thedanigrant",
+      "a16z",
+      "Works with founders",
+      "current",
+      "https://x.com/thedanigrant",
+      "source_reviewed"
+    ],
+    [
+      "thedanigrant",
+      "jam",
+      "CEO",
+      "historical",
+      "https://x.com/thedanigrant",
+      "source_reviewed"
+    ],
+    [
+      "dok2001",
+      "cloudflare",
+      "CTO",
+      "current",
+      "https://x.com/dok2001",
+      "source_reviewed"
+    ],
+    [
+      "kvnwang",
+      "sword",
+      null,
+      "current",
+      "https://x.com/kvnwang",
+      "source_reviewed"
+    ],
+    [
+      "portian1682",
+      "hostedai",
+      "Founding BD",
+      "unknown",
+      "https://x.com/PortiaN1682/status/2103798167728705570",
+      "source_reviewed"
+    ],
+    [
+      "ditlev",
+      "hostedai",
+      "Cofounder and CEO",
+      "at_source_date",
+      "https://x.com/PortiaN1682/status/2103798167728705570",
+      "source_reviewed"
+    ],
+    [
+      "joshuavoydik",
+      "herostuff",
+      "Cofounder and CEO",
+      "current",
+      "https://www.prweb.com/releases/hero-launches-for-businesses-shopify-import-catalog-cleanup-and-a-web-dashboard-302849991.html",
+      "source_reviewed"
+    ],
+    [
+      "kaigradert",
+      "herostuff",
+      "Cofounder",
+      "current",
+      "https://x.com/kaigradert",
+      "source_reviewed"
+    ],
+    [
+      "kaigradert",
+      "producthunt",
+      null,
+      "historical",
+      "https://x.com/kaigradert",
+      "source_reviewed"
+    ],
+    [
+      "kaigradert",
+      "angellist",
+      null,
+      "historical",
+      "https://x.com/kaigradert",
+      "source_reviewed"
+    ],
+    [
+      "philippspiess",
+      "openai",
+      "Engineer",
+      "current",
+      "https://x.com/PhilippSpiess",
+      "source_reviewed"
+    ],
+    [
+      "vswordh",
+      "sword",
+      "Hired Kevin Wang (as reported by Kevin)",
+      "at_source_date",
+      "https://x.com/kvnwang/status/2103870478729511383",
+      "source_reviewed"
+    ]
+  ],
+  "reviewed_bios": [
+    "rahulmfg",
+    "rrhoover",
+    "andreasklinger",
+    "rstankov",
+    "syswarren",
+    "kevinwdavid",
+    "sarmariewright",
+    "ahiggz",
+    "eriktorenberg",
+    "david__booth",
+    "gaby_goldberg",
+    "gbrl_dick",
+    "alex_danco",
+    "jiratickets",
+    "minney_cat",
+    "thedanigrant",
+    "philippspiess",
+    "ed_moraaaa",
+    "kvnwang",
+    "droovg",
+    "kaigradert",
+    "rajivayyangar",
+    "devladinci",
+    "dok2001",
+    "jamiepeak",
+    "joshuavoydik"
+  ],
+  "company_notes": {
+    "ondeck": "The @beondeck profile now says 'On Deck now ODF' and points to @joinodf. Retained as the historical On Deck affiliation node.",
+    "livo": "No official X handle/profile image resolved in this pass.",
+    "sword": "Referenced by Kevin Wang's public bio, but https://x.com/swordhealth displayed 'This account doesn’t exist' on 2026-09-29. Image unresolved; do not infer a replacement handle."
+  },
+  "timestamps": {
+    "2084666290745303271": "2026-08-04T15:42:29.000Z",
+    "2103539621489774876": "2026-09-25T17:38:22.000Z",
+    "1686095629934559232": "2023-07-31T19:24:58.000Z",
+    "2080624014519644269": "2026-07-24T11:59:55.000Z",
+    "955534946701000704": "2018-01-22T20:17:38.000Z",
+    "1686106685016846336": "2023-07-31T20:08:54.000Z",
+    "1704179319176569222": "2023-09-19T17:03:06.000Z",
+    "2013299287141093692": "2026-01-19T17:15:30.000Z",
+    "2056428104520712316": "2026-05-18T17:34:01.000Z",
+    "2026408081806987667": "2026-02-24T21:25:10.000Z",
+    "2026414829649670489": "2026-02-24T21:51:59.000Z",
+    "1772324925963125009": "2024-03-25T18:09:25.000Z",
+    "1955309164860936369": "2025-08-12T16:43:27.000Z",
+    "2092701180816498749": "2026-08-26T19:50:16.000Z",
+    "2018756491386204476": "2026-02-03T18:40:28.000Z",
+    "1704183243673850091": "2023-09-19T17:18:42.000Z",
+    "2103511607246836071": "2026-09-25T15:47:03.000Z",
+    "2103656342418518302": "2026-09-26T01:22:10.000Z",
+    "2103870478729511383": "2026-09-26T15:33:04.000Z",
+    "2103798167728705570": "2026-09-26T10:45:44.000Z",
+    "1726853675556188256": "2023-11-21T06:42:54.000Z",
+    "1986542173530235076": "2025-11-06T21:12:16.000Z"
+  },
+  "person_bio_overrides": {
+    "thedanigrant": "Former CEO at Jam; works with founders at a16z",
+    "jiratickets": "Joined the a16z New Media team, announced August 2026",
+    "joshuavoydik": "Cofounder and CEO at Hero"
+  },
+  "source_overrides": {
+    "profile:hero-launches-for-businesses-shopify-import-catalog-cleanup-and-a-web-dashboard-302849991.html": {
+      "kind": "company_announcement",
+      "date": "2026-08-12",
+      "observation_method": "Hero Stuff-issued announcement on PRWeb names Joshua Voydik as CEO and co-founder. Reviewed September 29, 2026."
+    }
+  }
+}

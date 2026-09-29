@@ -1,0 +1,1475 @@
+{
+  "nodes": [
+    {
+      "id": "person:zeldapoem",
+      "type": "person",
+      "name": "Zelda",
+      "handle": "zeldapoem",
+      "bio": "Founding team at Horowitz Andreessen Academy",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/zeldapoem",
+      "image_url": "https://pbs.twimg.com/profile_images/2094548693273935872/qKrK41WN_400x400.jpg"
+    },
+    {
+      "id": "person:liangsays",
+      "type": "person",
+      "name": "Brent Liang",
+      "handle": "liangsays",
+      "bio": "Co-founder of MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/liangsays",
+      "image_url": "https://pbs.twimg.com/profile_images/2043911022436823040/j7FLVjrN_400x400.jpg"
+    },
+    {
+      "id": "person:joshelman",
+      "type": "person",
+      "name": "Josh Elman",
+      "handle": "joshelman",
+      "bio": "Partner at a16z, focused on consumer companies",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/joshelman",
+      "image_url": "https://pbs.twimg.com/profile_images/2069426660534042625/sDAw9dn0_400x400.jpg"
+    },
+    {
+      "id": "person:saltzman_jason",
+      "type": "person",
+      "name": "Jason Saltzman",
+      "handle": "saltzman_jason",
+      "bio": "Head of Insights at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/saltzman_jason",
+      "image_url": "https://pbs.twimg.com/profile_images/2054259172112490496/x7-T7FqI_400x400.jpg"
+    },
+    {
+      "id": "person:netcapgirl",
+      "type": "person",
+      "name": "Sophie",
+      "handle": "netcapgirl",
+      "bio": "MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/netcapgirl",
+      "image_url": "https://pbs.twimg.com/profile_images/1672047750794428421/68dfptfk_400x400.jpg"
+    },
+    {
+      "id": "person:lishali88",
+      "type": "person",
+      "name": "Lisha Li",
+      "handle": "lishali88",
+      "bio": "Partner at a16z, infrastructure and AI; formerly CEO of Rosebud AI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/lishali88",
+      "image_url": "https://pbs.twimg.com/profile_images/2094798096651931648/rM1ryR-G_400x400.jpg"
+    },
+    {
+      "id": "person:jesslionness",
+      "type": "person",
+      "name": "Jess Leão",
+      "handle": "jesslionness",
+      "bio": "Partner at a16z American Dynamism; formerly FDE at Palantir",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/jesslionness",
+      "image_url": "https://pbs.twimg.com/profile_images/2086009783908511744/4AbU3OFm_400x400.jpg"
+    },
+    {
+      "id": "person:humford",
+      "type": "person",
+      "name": "Henry Williams",
+      "handle": "humford",
+      "bio": "Strategic Futures at OpenAI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/humford",
+      "image_url": "https://pbs.twimg.com/profile_images/1946342711918743552/JyLkYO3O_400x400.jpg"
+    },
+    {
+      "id": "person:chrisjbakke",
+      "type": "person",
+      "name": "Chris Bakke",
+      "handle": "chrisjbakke",
+      "bio": "Co-founder of MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/chrisjbakke",
+      "image_url": "https://pbs.twimg.com/profile_images/1491961095136763905/Sd8XRL5__400x400.jpg"
+    },
+    {
+      "id": "person:brookemrtn",
+      "type": "person",
+      "name": "Brooke Martin",
+      "handle": "brookemrtn",
+      "bio": "Building at a16z; worked on Cosign",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/brookemrtn",
+      "image_url": "https://pbs.twimg.com/profile_images/1600006076287459329/wYUxRunj_400x400.jpg"
+    },
+    {
+      "id": "person:jessicarwolf",
+      "type": "person",
+      "name": "Jessica Wolf Lord",
+      "handle": "jessicarwolf",
+      "bio": "Partner at a16z; building communities for founders and executives",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/jessicarwolf",
+      "image_url": "https://pbs.twimg.com/profile_images/1473741866180960273/KF_v52rJ_400x400.jpg"
+    },
+    {
+      "id": "person:kareeening",
+      "type": "person",
+      "name": "Karina Bao",
+      "handle": "kareeening",
+      "bio": "a16z, San Francisco",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/kareeening",
+      "image_url": "https://pbs.twimg.com/profile_images/1841837945096990721/KEIdGHUH_400x400.jpg"
+    },
+    {
+      "id": "person:mikemcg0",
+      "type": "person",
+      "name": "Michael McGuiness",
+      "handle": "mikemcg0",
+      "bio": "Writer at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/mikemcg0",
+      "image_url": "https://pbs.twimg.com/profile_images/1936048717603188736/uKJI-5cE_400x400.jpg"
+    },
+    {
+      "id": "person:lukedenatale",
+      "type": "person",
+      "name": "Luke DeNatale",
+      "handle": "lukedenatale",
+      "bio": "New Media at a16z",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/lukedenatale",
+      "image_url": "https://pbs.twimg.com/profile_images/2062048954284417025/EOgfjiCS_400x400.jpg"
+    },
+    {
+      "id": "person:fu_joehudson",
+      "type": "person",
+      "name": "Joe Hudson",
+      "handle": "fu_joehudson",
+      "bio": "Executive coach and founder of The Art of Accomplishment",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/fu_joehudson",
+      "image_url": "https://pbs.twimg.com/profile_images/1960169989278699520/qt8aTrfY_400x400.jpg"
+    },
+    {
+      "id": "person:davideoks",
+      "type": "person",
+      "name": "David Oks",
+      "handle": "davideoks",
+      "bio": "OpenAI; essayist",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/davideoks",
+      "image_url": "https://pbs.twimg.com/profile_images/2088686629242507264/eFLmQKyS_400x400.jpg"
+    },
+    {
+      "id": "person:knowerofmarkets",
+      "type": "person",
+      "name": "knower",
+      "handle": "knowerofmarkets",
+      "bio": "MTS",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/knowerofmarkets",
+      "image_url": "https://pbs.twimg.com/profile_images/2002210312309657600/gFW8c9Q0_400x400.jpg"
+    },
+    {
+      "id": "person:clairevo",
+      "type": "person",
+      "name": "Claire Vo",
+      "handle": "clairevo",
+      "bio": "Building CXO and ChatPRD; host of How I AI",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/clairevo",
+      "image_url": "https://pbs.twimg.com/profile_images/1565475442470965248/LBMzyamM_400x400.jpg"
+    },
+    {
+      "id": "person:sebgoddijn",
+      "type": "person",
+      "name": "Seb Goddijn",
+      "handle": "sebgoddijn",
+      "bio": "Building Bonsai at Yak Labs; previously created Glass at Ramp",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/sebgoddijn",
+      "image_url": "https://pbs.twimg.com/profile_images/2017302152411066368/pQdZ-Il3_400x400.jpg"
+    },
+    {
+      "id": "person:ow",
+      "type": "person",
+      "name": "Owen Williams",
+      "handle": "ow",
+      "bio": "Design manager at Stripe, Developer Experience and AI; previously Shopify",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/ow",
+      "image_url": "https://pbs.twimg.com/profile_images/2104589508759220224/j3VLkjHb_400x400.jpg"
+    },
+    {
+      "id": "person:annimaniac",
+      "type": "person",
+      "name": "Ann Miura-Ko",
+      "handle": "annimaniac",
+      "bio": "Pre-seed and seed investor at Floodgate",
+      "bio_verification_status": "source_reviewed",
+      "profile_url": "https://x.com/annimaniac",
+      "image_url": "https://pbs.twimg.com/profile_images/378800000381101189/c44207e9c4f71f4bd442cbdd8d28e477_400x400.png"
+    },
+    {
+      "id": "org:mtslive",
+      "type": "organization",
+      "name": "MTS",
+      "handle": "mtslive",
+      "profile_url": "https://x.com/mtslive",
+      "image_url": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_400x400.jpg"
+    },
+    {
+      "id": "org:theacademysf",
+      "type": "organization",
+      "name": "Horowitz Andreessen Academy",
+      "handle": "theacademysf",
+      "profile_url": "https://x.com/theacademysf",
+      "image_url": "https://pbs.twimg.com/profile_images/2102133530180673536/njGE5SXw_400x400.jpg"
+    },
+    {
+      "id": "org:artofaccomp",
+      "type": "organization",
+      "name": "The Art of Accomplishment",
+      "handle": "artofaccomp",
+      "profile_url": "https://x.com/artofaccomp",
+      "image_url": "https://pbs.twimg.com/profile_images/1546963329406550018/DEurIPcQ_400x400.jpg"
+    }
+  ],
+  "edges": [
+    {
+      "id": "X001",
+      "source": "person:eriktorenberg",
+      "target": "person:zeldapoem",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102450261247873489"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X002",
+      "source": "person:eriktorenberg",
+      "target": "person:joshelman",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2069437709870059796"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X003",
+      "source": "person:eriktorenberg",
+      "target": "person:saltzman_jason",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2049550409170379214"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X004",
+      "source": "person:eriktorenberg",
+      "target": "person:lishali88",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2047349173411053590"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X005",
+      "source": "person:eriktorenberg",
+      "target": "person:jesslionness",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2052070544015790547"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X006",
+      "source": "person:eriktorenberg",
+      "target": "person:jessicarwolf",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X007",
+      "source": "person:eriktorenberg",
+      "target": "person:kareeening",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X008",
+      "source": "person:eriktorenberg",
+      "target": "person:mikemcg0",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X009",
+      "source": "person:eriktorenberg",
+      "target": "person:brookemrtn",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X010",
+      "source": "person:eriktorenberg",
+      "target": "person:lukedenatale",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X011",
+      "source": "person:eriktorenberg",
+      "target": "person:liangsays",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X012",
+      "source": "person:eriktorenberg",
+      "target": "person:netcapgirl",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X013",
+      "source": "person:eriktorenberg",
+      "target": "person:humford",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X014",
+      "source": "person:eriktorenberg",
+      "target": "person:davideoks",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X015",
+      "source": "person:eriktorenberg",
+      "target": "person:chrisjbakke",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X016",
+      "source": "person:eriktorenberg",
+      "target": "person:knowerofmarkets",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2089437647760761139"
+      ],
+      "context": "Named in an explicit group appreciation post. Broad team praise, not an individual hiring recommendation; full named list in source.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X017",
+      "source": "person:humford",
+      "target": "person:eriktorenberg",
+      "type": "career_support",
+      "directed": true,
+      "source_ids": [
+        "x:2087613901739581836"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X018",
+      "source": "person:chrisjbakke",
+      "target": "person:eriktorenberg",
+      "type": "vouch",
+      "directed": true,
+      "source_ids": [
+        "x:2089450846023229452"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X019",
+      "source": "person:brookemrtn",
+      "target": "person:eriktorenberg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "context": "Explicit collaboration building Cosign, not a hiring endorsement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X020",
+      "source": "person:brookemrtn",
+      "target": "person:david__booth",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "context": "Explicit collaboration building Cosign, not a hiring endorsement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X021",
+      "source": "person:brookemrtn",
+      "target": "person:droovg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "context": "Explicit collaboration building Cosign, not a hiring endorsement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X022",
+      "source": "person:david__booth",
+      "target": "person:clairevo",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X023",
+      "source": "person:david__booth",
+      "target": "person:sebgoddijn",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X024",
+      "source": "person:david__booth",
+      "target": "person:ow",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X025",
+      "source": "person:david__booth",
+      "target": "person:annimaniac",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "context": "Named in the Ops Engineering Fellowship announcement; group praise, not an individual hiring recommendation.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X026",
+      "source": "person:eriktorenberg",
+      "target": "person:fu_joehudson",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2076411247864713708"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X027",
+      "source": "person:droovg",
+      "target": "person:liangsays",
+      "type": "career_support",
+      "directed": true,
+      "source_ids": [
+        "x:2103493993866879012"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X028",
+      "source": "person:liangsays",
+      "target": "person:droovg",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2103502546249884113"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X029",
+      "source": "person:droovg",
+      "target": "person:liangsays",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103508294010851509"
+      ],
+      "context": "Cosign and MTS collaboration, explicit first-person statement.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X030",
+      "source": "person:david__booth",
+      "target": "person:droovg",
+      "type": "vouch",
+      "directed": true,
+      "source_ids": [
+        "x:2103969644034089277"
+      ],
+      "context": "Public statement of willingness to cosign Dhruv.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X031",
+      "source": "person:liangsays",
+      "target": "person:humford",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2087617976547905979"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X032",
+      "source": "person:humford",
+      "target": "person:liangsays",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2087618267485774000"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X033",
+      "source": "person:liangsays",
+      "target": "person:chrisjbakke",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X034",
+      "source": "person:liangsays",
+      "target": "person:netcapgirl",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X035",
+      "source": "person:liangsays",
+      "target": "person:gbrl_dick",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X036",
+      "source": "person:liangsays",
+      "target": "person:knowerofmarkets",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "context": "Explicitly announced MTS collaboration; at time of joining, not proof of completed work.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X037",
+      "source": "person:thedanigrant",
+      "target": "person:clairevo",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2092366965696512047"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X038",
+      "source": "person:clairevo",
+      "target": "person:thedanigrant",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:1984097124381069770"
+      ],
+      "context": "Praise for professional meetings, not a hiring vouch.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X039",
+      "source": "person:brookemrtn",
+      "target": "person:droovg",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:2103497809517502884"
+      ],
+      "context": "",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X040",
+      "source": "person:david__booth",
+      "target": "person:joshelman",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103513498361995391"
+      ],
+      "context": "Co-appeared on a Cosign podcast; a specific collaboration, not employment or a hiring vouch.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "X041",
+      "source": "person:david__booth",
+      "target": "person:eriktorenberg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:2103513498361995391"
+      ],
+      "context": "Co-appeared on a Cosign podcast; a specific collaboration, not employment or a hiring vouch.",
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA41",
+      "source": "person:zeldapoem",
+      "target": "org:theacademysf",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founding team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:zeldapoem"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA42",
+      "source": "person:liangsays",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Co-founder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:liangsays"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA43",
+      "source": "person:chrisjbakke",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Co-founder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:chrisjbakke"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA44",
+      "source": "person:netcapgirl",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:netcapgirl"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA45",
+      "source": "person:knowerofmarkets",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:knowerofmarkets"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA46",
+      "source": "person:joshelman",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:joshelman"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA47",
+      "source": "person:saltzman_jason",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Head of Insights",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:saltzman_jason"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA48",
+      "source": "person:lishali88",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner, infrastructure and AI",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:lishali88"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA49",
+      "source": "person:jesslionness",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner, American Dynamism",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:jesslionness"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA50",
+      "source": "person:brookemrtn",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Builder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:brookemrtn"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA51",
+      "source": "person:jessicarwolf",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Partner",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:jessicarwolf"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA52",
+      "source": "person:kareeening",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:kareeening"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA53",
+      "source": "person:mikemcg0",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Writer",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:mikemcg0"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA54",
+      "source": "person:lukedenatale",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "New Media",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:lukedenatale"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA55",
+      "source": "person:humford",
+      "target": "org:openai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Strategic Futures",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:humford"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA56",
+      "source": "person:davideoks",
+      "target": "org:openai",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Team",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:davideoks"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA57",
+      "source": "person:fu_joehudson",
+      "target": "org:artofaccomp",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Founder",
+      "temporal_status": "current",
+      "source_ids": [
+        "profile:fu_joehudson"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA58",
+      "source": "person:brookemrtn",
+      "target": "org:cosign",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Built Cosign",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2103503644385751351"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA59",
+      "source": "person:gbrl_dick",
+      "target": "org:mtslive",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Named MTS collaborator",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2069460281303110090"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA60",
+      "source": "person:clairevo",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Ops Engineering Founding Fellow",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "XA61",
+      "source": "person:sebgoddijn",
+      "target": "org:a16z",
+      "type": "affiliation",
+      "directed": false,
+      "role": "Ops Engineering Founding Fellow",
+      "temporal_status": "at_source_date",
+      "source_ids": [
+        "x:2102820021642858600"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true
+    },
+    {
+      "id": "J001",
+      "source": "person:joshuavoydik",
+      "target": "person:rahulmfg",
+      "type": "praise",
+      "directed": true,
+      "source_ids": [
+        "x:1787900954907652459"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": true,
+      "context": "Joshua welcomes Rahul to Hero and says he is helping the team build its marketplace.",
+      "category": "hiring_praise"
+    },
+    {
+      "id": "W-J001",
+      "source": "person:joshuavoydik",
+      "target": "person:rahulmfg",
+      "type": "worked_with",
+      "directed": false,
+      "source_ids": [
+        "x:1787900954907652459"
+      ],
+      "verification_status": "source_reviewed",
+      "default_visible": false,
+      "context": "Joshua welcomes Rahul to Hero and says he is helping the team build its marketplace. Same hiring announcement; not a separate endorsement.",
+      "derived_from_event": "J001"
+    }
+  ],
+  "sources": [
+    {
+      "id": "x:2102450261247873489",
+      "url": "https://x.com/eriktorenberg/status/2102450261247873489",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-09-22",
+      "excerpt": "It's already been incredible working with you, we are so lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2069437709870059796",
+      "url": "https://x.com/eriktorenberg/status/2069437709870059796",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-06-23",
+      "excerpt": "Welcome Josh! We are so lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2049550409170379214",
+      "url": "https://x.com/eriktorenberg/status/2049550409170379214",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-04-29",
+      "excerpt": "We're lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2047349173411053590",
+      "url": "https://x.com/eriktorenberg/status/2047349173411053590",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-04-23",
+      "excerpt": "We are lucky to have you.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2052070544015790547",
+      "url": "https://x.com/eriktorenberg/status/2052070544015790547",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-05-06",
+      "excerpt": "We are so lucky to have you",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2089437647760761139",
+      "url": "https://x.com/eriktorenberg/status/2089437647760761139",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-08-17",
+      "excerpt": "This quarter we’ve hired some great people: … We’ve also spun out some great people",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2087613901739581836",
+      "url": "https://x.com/humford/status/2087613901739581836",
+      "author_id": "person:humford",
+      "date": "2026-08-12",
+      "excerpt": "Thank you for believing in me and I know we'll be working together again soon.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2089450846023229452",
+      "url": "https://x.com/chrisjbakke/status/2089450846023229452",
+      "author_id": "person:chrisjbakke",
+      "date": "2026-08-17",
+      "excerpt": "you should try very hard to work with @eriktorenberg + New Media. They're insanely good at what they do.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103503644385751351",
+      "url": "https://x.com/brookemrtn/status/2103503644385751351",
+      "author_id": "person:brookemrtn",
+      "date": "2026-09-25",
+      "excerpt": "Had so much fun building this with @eriktorenberg @david__booth @droovg and the a16z team.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2102820021642858600",
+      "url": "https://x.com/david__booth/status/2102820021642858600",
+      "author_id": "person:david__booth",
+      "date": "2026-09-23",
+      "excerpt": "There's a killer crew involved already",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2076411247864713708",
+      "url": "https://x.com/eriktorenberg/status/2076411247864713708",
+      "author_id": "person:eriktorenberg",
+      "date": "2026-07-12",
+      "excerpt": "I’d equally recommend “Groundbreakers” retreat and other courses by @artofaccomp and more generally watching and reading @FU_joehudson’s work",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103493993866879012",
+      "url": "https://x.com/droovg/status/2103493993866879012",
+      "author_id": "person:droovg",
+      "date": "2026-09-25",
+      "excerpt": "a single person taking a chance on me when they probably shouldn't have @liangsays",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103502546249884113",
+      "url": "https://x.com/liangsays/status/2103502546249884113",
+      "author_id": "person:liangsays",
+      "date": "2026-09-25",
+      "excerpt": "seeing your arc has been just unbelievable and insane",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103508294010851509",
+      "url": "https://x.com/droovg/status/2103508294010851509",
+      "author_id": "person:droovg",
+      "date": "2026-09-25",
+      "excerpt": "so happy to be working together again ❤️",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103969644034089277",
+      "url": "https://x.com/david__booth/status/2103969644034089277",
+      "author_id": "person:david__booth",
+      "date": "2026-09-26",
+      "excerpt": "i would totally cosign @droovg",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2087617976547905979",
+      "url": "https://x.com/liangsays/status/2087617976547905979",
+      "author_id": "person:liangsays",
+      "date": "2026-08-12",
+      "excerpt": "henry is an excellent orator, thinker, partner and someone i deeply admire",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2087618267485774000",
+      "url": "https://x.com/humford/status/2087618267485774000",
+      "author_id": "person:humford",
+      "date": "2026-08-12",
+      "excerpt": "much love man. blown away by what you and the team have been building, and hope to make you proud.",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2069460281303110090",
+      "url": "https://x.com/liangsays/status/2069460281303110090",
+      "author_id": "person:liangsays",
+      "date": "2026-06-23",
+      "excerpt": "i’m excited to work alongside @ChrisJBakke @netcapgirl @theojaffee @schisofrenia @gbrl_dick and @knowerofmarkets",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2092366965696512047",
+      "url": "https://x.com/thedanigrant/status/2092366965696512047",
+      "author_id": "person:thedanigrant",
+      "date": "2026-08-25",
+      "excerpt": "huge @clairevo fan 😃 and she's starting a new co helping dev & product teams build even more w/ AI",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:1984097124381069770",
+      "url": "https://x.com/clairevo/status/1984097124381069770",
+      "author_id": "person:clairevo",
+      "date": "2025-10-31",
+      "excerpt": "Meetings with @thedanigrant are a unparalleled delight",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103497809517502884",
+      "url": "https://x.com/brookemrtn/status/2103497809517502884",
+      "author_id": "person:brookemrtn",
+      "date": "2026-09-25",
+      "excerpt": "@droovg MVP",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "x:2103513498361995391",
+      "url": "https://x.com/david__booth/status/2103513498361995391",
+      "author_id": "person:david__booth",
+      "date": "2026-09-25",
+      "excerpt": "hopped on the @a16z pod with @eriktorenberg, @omooretweets, @joshelman to chat about @cosign",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X thread inspected in Chrome, including parent context",
+      "date_basis": "UTC date from post timestamp / X snowflake"
+    },
+    {
+      "id": "profile:zeldapoem",
+      "url": "https://x.com/zeldapoem",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:liangsays",
+      "url": "https://x.com/liangsays",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:chrisjbakke",
+      "url": "https://x.com/chrisjbakke",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:netcapgirl",
+      "url": "https://x.com/netcapgirl",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:knowerofmarkets",
+      "url": "https://x.com/knowerofmarkets",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:joshelman",
+      "url": "https://x.com/joshelman",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:saltzman_jason",
+      "url": "https://x.com/saltzman_jason",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:lishali88",
+      "url": "https://x.com/lishali88",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:jesslionness",
+      "url": "https://x.com/jesslionness",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:brookemrtn",
+      "url": "https://x.com/brookemrtn",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:jessicarwolf",
+      "url": "https://x.com/jessicarwolf",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:kareeening",
+      "url": "https://x.com/kareeening",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:mikemcg0",
+      "url": "https://x.com/mikemcg0",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:lukedenatale",
+      "url": "https://x.com/lukedenatale",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:humford",
+      "url": "https://x.com/humford",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:davideoks",
+      "url": "https://x.com/davideoks",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "profile:fu_joehudson",
+      "url": "https://x.com/fu_joehudson",
+      "kind": "profile_bio",
+      "verification_status": "source_reviewed",
+      "retrieved_on": "2026-09-29"
+    },
+    {
+      "id": "x:1787900954907652459",
+      "url": "https://x.com/joshuavoydik/status/1787900954907652459",
+      "author_id": "person:joshuavoydik",
+      "date": "2024-05-07",
+      "published_at": "2024-05-07T17:42:59.000Z",
+      "date_basis": "Original X post time element, UTC",
+      "excerpt": "So excited to welcome @rahulmfg to the Hero team 😇 … Rahul is a gem (and can ship) 🚢",
+      "retrieved_on": "2026-09-29",
+      "verification_status": "source_reviewed",
+      "observation_method": "Original X post inspected in Chrome; hiring announcement explicitly welcomes Rahul to Hero and praises his ability to ship."
+    }
+  ],
+  "notes": [
+    "Discovered with Grok, verified against original X threads and profiles in Chrome.",
+    "Group praise is labeled in context; it is not a hiring vouch.",
+    "No connections inferred from follows or shared employers."
+  ]
+}

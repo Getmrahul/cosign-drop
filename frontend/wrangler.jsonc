@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "the-network",
+  "compatibility_date": "2026-09-29",
+  "workers_dev": true,
+  // Assets only: no server runtime, paid bindings, or request-based compute.
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page",
+  },
+}
