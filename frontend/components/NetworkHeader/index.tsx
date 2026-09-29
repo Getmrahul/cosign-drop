@@ -20,7 +20,7 @@ export default function NetworkHeader({
       {search}
       <button
         className={'story-launcher' + (noteRead ? '' : ' has-unread-note')}
-        aria-label="What the Social Graph Knows? — a note from Rahul"
+        aria-label="What the Social Graph Knows — a note from Rahul"
         aria-expanded={storyOpen && storyMode === 'bubble'}
         aria-controls="rahul-story"
         onClick={() => {
@@ -36,7 +36,7 @@ export default function NetworkHeader({
         <span className="launcher-bubble">
           <strong>A note from Rahul</strong>
           <small>
-            <span className="launcher-title">What the Social Graph Knows?</span>
+            <span className="launcher-title">What the Social Graph Knows</span>
             <span aria-hidden="true">↗</span>
           </small>
         </span>

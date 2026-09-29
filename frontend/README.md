@@ -2,25 +2,35 @@
 
 [Explore the live graph](https://the-network.patch-dev.workers.dev) · [Read the build conversation](docs/conversation-transcript.md)
 
-## What the Social Graph Knows?
+## What the Social Graph _Knows_
 
 _A note from Rahul_
 
-The social graph is such a powerful thing. It holds so many signals that can be useful for hiring, investing, and so much more in the startup world.
+**People already vouch for each other online. Connecting those moments reveals a lot.**
 
-Wanna hire someone, say Rahul? Just click on his node. You’ll see his work, the people who vouch for him, and who he’s worked with. Those connections can be powerful signals for hiring. Or even for investment.
+The social graph is such a powerful thing. There are so many useful signals hidden in who we know, who we’ve worked with, and what people have said about us.
 
-And it works the other way too. Wanna work at a company like OpenAI? Explore its connections to see whether someone you know works there, and who you could reach out to for an introduction. A company starts to feel a little closer when you can see the people connecting you to it.
+Wanna hire someone, say Rahul? Click on his **node**. You can see his work, the people who vouch for him, who he’s worked with, and the companies he’s connected to. That can be useful for hiring, investing, and a bunch of other things in the startup world.
 
-What I love is that I didn’t have to ask people for testimonials to build this. These posts already existed. They came from how people naturally interact with each other on X: recommending someone, appreciating their work, or talking about building together.
+It works the other way too. Wanna work at a company like OpenAI? Explore its connections. Maybe someone you know works there. Maybe someone in your network knows someone there. Suddenly the company feels a little closer.
 
-I used Grok to find and export these posts from X, then checked the sources and connected the people and companies into this graph. You can follow each connection back to the original source.
+The part I find really interesting is that I didn’t have to ask anyone for testimonials to build this.
 
-Even with this limited data, you can see how cool the graph is, and how useful it could be. This is how I think about Cosign, and it’s the same idea behind [bakd.work](https://bakd.work), my pet project.
+These posts already existed.
 
-I believe these signals can be more powerful than a résumé alone. Startups already hire through referrals and word of mouth; they often don’t have time for multiple rounds of interviews. This could help them find real talent faster, filter applications, or explore someone’s network before reaching out.
+People naturally recommend each other on X, appreciate someone’s work, talk about things they built together, or tell others they should hire someone.
 
-So many possibilities, but I just love this graph <3
+I used Grok to find and export some of these posts from X, checked the sources, and connected the people and companies into this graph. You can follow each connection back to its source.
+
+And this is with pretty limited data. Imagine what the graph starts looking like when you connect more of these moments.
+
+That’s partly how I think about Cosign, and it’s also the idea behind [bakd.work](https://bakd.work/), my little pet project.
+
+I think these signals can tell you things a résumé alone can’t. Startups already hire through referrals and word of mouth all the time. A graph like this could help you discover people, filter applications, understand someone’s network, or find a path to someone you want to meet.
+
+There are so many directions you could take this.
+
+But mostly, I just love this graph <3
 
 ## The build conversation
 

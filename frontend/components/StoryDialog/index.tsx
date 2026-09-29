@@ -12,7 +12,7 @@ export default function StoryDialog({
   story: ReturnType<typeof useStoryDialog>;
   onSelect: (id: string) => void;
 }) {
-  const { dialog, storyMode, onStoryClose } = story;
+  const { dialog, scroll, storyMode, onStoryClose, pauseStory } = story;
   return (
     <dialog
       ref={dialog}
@@ -43,7 +43,7 @@ export default function StoryDialog({
             <path d="m6 6 12 12M18 6 6 18" />
           </svg>
         </button>
-        <div className="story-scroll">
+        <div className="story-scroll" ref={scroll}>
           <div className="story-author">
             <Avatar node={author} />
             <span>
@@ -52,65 +52,78 @@ export default function StoryDialog({
             </span>
           </div>
           <h2 id="story-title">
-            What the Social <em>Graph Knows?</em>
+            What the Social Graph <em>Knows</em>
           </h2>
           <p className="story-lead">
-            The social graph is such a powerful thing. It holds so many signals
-            that can be useful for hiring, investing, and so much more in the
-            startup world.
+            <strong>
+              People already vouch for each other online. Connecting those
+              moments reveals a lot.
+            </strong>
           </p>
           <div className="story-body">
             <p>
-              Wanna hire someone, say Rahul? Just click on his{' '}
+              The social graph is such a powerful thing. There are so many
+              useful signals hidden in who we know, who we’ve worked with, and
+              what people have said about us.
+            </p>
+            <p>
+              Wanna hire someone, say Rahul? Click on his{' '}
               <button
                 className="inline-node-link"
                 onClick={() => {
-                  dialog.current?.close();
+                  pauseStory();
                   choose(author.id);
                 }}>
                 node
               </button>
-              . You’ll see his work, the people who vouch for him, and who he’s
-              worked with. Those connections can be powerful signals for hiring.
-              Or even for investment.
+              . You can see his work, the people who vouch for him, who he’s
+              worked with, and the companies he’s connected to. That can be
+              useful for hiring, investing, and a bunch of other things in the
+              startup world.
             </p>
             <p>
-              And it works the other way too. Wanna work at a company like
-              OpenAI? Explore its connections to see whether someone you know
-              works there, and who you could reach out to for an introduction. A
-              company starts to feel a little closer when you can see the people
-              connecting you to it.
+              It works the other way too. Wanna work at a company like OpenAI?
+              Explore its connections. Maybe someone you know works there. Maybe
+              someone in your network knows someone there. Suddenly the company
+              feels a little closer.
             </p>
             <p>
-              What I love is that I didn’t have to ask people for testimonials
-              to build this. These posts already existed. They came from how
-              people naturally interact with each other on X: recommending
-              someone, appreciating their work, or talking about building
-              together.
+              The part I find really interesting is that I didn’t have to ask
+              anyone for testimonials to build this.
+            </p>
+            <p>These posts already existed.</p>
+            <p>
+              People naturally recommend each other on X, appreciate someone’s
+              work, talk about things they built together, or tell others they
+              should hire someone.
             </p>
             <p>
-              I used Grok to find and export these posts from X, then checked
-              the sources and connected the people and companies into this
-              graph. You can follow each connection back to the original source.
+              I used Grok to find and export some of these posts from X, checked
+              the sources, and connected the people and companies into this
+              graph. You can follow each connection back to its source.
             </p>
             <p>
-              Even with this limited data, you can see how cool the graph is,
-              and how useful it could be. This is how I think about Cosign, and
-              it’s the same idea behind{' '}
-              <a href="https://bakd.work" target="_blank" rel="noreferrer">
+              And this is with pretty limited data. Imagine what the graph
+              starts looking like when you connect more of these moments.
+            </p>
+            <p>
+              That’s partly how I think about Cosign, and it’s also the idea
+              behind{' '}
+              <a href="https://bakd.work/" target="_blank" rel="noreferrer">
                 bakd.work
               </a>
-              , my pet project.
+              , my little pet project.
             </p>
             <p>
-              I believe these signals can be more powerful than a résumé alone.
-              Startups already hire through referrals and word of mouth; they
-              often don’t have time for multiple rounds of interviews. This
-              could help them find real talent faster, filter applications, or
-              explore someone’s network before reaching out.
+              I think these signals can tell you things a résumé alone can’t.
+              Startups already hire through referrals and word of mouth all the
+              time. A graph like this could help you discover people, filter
+              applications, understand someone’s network, or find a path to
+              someone you want to meet.
             </p>
+            <p>There are so many directions you could take this.</p>
             <p className="story-signoff">
-              So many possibilities, but I just love this graph &lt;3
+              But mostly, I just love this graph &lt;3
             </p>
           </div>
           <details className="story-sources">
@@ -131,16 +144,15 @@ export default function StoryDialog({
               ability.
             </p>
           </details>
-        </div>
-        <div className="story-actions">
-          <span>A small world, worth exploring.</span>
-          <button
-            onClick={() => {
-              dialog.current?.close();
-              choose('person:rahulmfg');
-            }}>
-            Explore my connections <span aria-hidden="true">↗</span>
-          </button>
+          <div className="story-actions">
+            <span>A small world, worth exploring.</span>
+            <button
+              onClick={() => {
+                dialog.current?.close();
+              }}>
+              Explore the network <span aria-hidden="true">↗</span>
+            </button>
+          </div>
         </div>
       </div>
     </dialog>

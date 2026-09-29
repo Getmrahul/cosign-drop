@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useState } from 'react';
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import type { GraphData } from '@/types/network';
 import useNetworkGraph from '@/hooks/useNetworkGraph';
 import useNetworkShortcuts from '@/hooks/useNetworkShortcuts';
@@ -14,13 +14,26 @@ import ProfileCard from '@/components/ProfileCard';
 import StoryDialog from '@/components/StoryDialog';
 export default function Network({ data }: { data: GraphData }) {
   const graph = useNetworkGraph(data);
-  const story = useStoryDialog();
+  const story = useStoryDialog(graph.selected);
+  const { reframeOverview } = graph;
+  useLayoutEffect(() => {
+    reframeOverview();
+  }, [story.storyOpen, story.storyMode, reframeOverview]);
   const [introComplete, setIntroComplete] = useState(false);
+  const introInterrupted = useRef(false);
+  const { openStory } = story;
   useEffect(() => {
     if (!graph.ready) return;
-    const timer = window.setTimeout(() => setIntroComplete(true), 3200);
+    const timer = window.setTimeout(() => {
+      setIntroComplete(true);
+      if (!introInterrupted.current) openStory('bubble');
+    }, 3200);
     return () => window.clearTimeout(timer);
-  }, [graph.ready]);
+  }, [graph.ready, openStory]);
+  function skipIntro() {
+    introInterrupted.current = true;
+    setIntroComplete(true);
+  }
   const { selected, selectedNode, ready, visibleEdges, choose, closeCard } =
     graph;
   const author = graph.nodeMap.get('person:rahulmfg')!;
@@ -30,8 +43,8 @@ export default function Network({ data }: { data: GraphData }) {
     <main
       className="workspace"
       data-intro={introComplete ? 'complete' : ready ? 'running' : 'waiting'}
-      onPointerDownCapture={() => setIntroComplete(true)}
-      onKeyDownCapture={() => setIntroComplete(true)}>
+      onPointerDownCapture={skipIntro}
+      onKeyDownCapture={skipIntro}>
       <NetworkHeader
         author={author}
         storyOpen={story.storyOpen}

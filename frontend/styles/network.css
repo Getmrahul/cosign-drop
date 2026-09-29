@@ -1040,6 +1040,24 @@ header {
 .legend {
   max-width: calc(100% - 175px);
 }
+@media (min-width: 1000px) {
+  .legend {
+    width: max-content;
+    padding: 12px 14px;
+  }
+  #filters {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+  }
+}
+@media (min-width: 1000px) {
+  .workspace:has(dialog.story-bubble[open])
+    .graph-area:not(.has-selection)
+    .bottom-bar {
+    left: max(26px, calc(var(--note-inset, 0px) + 16px));
+  }
+}
 .back-network {
   position: absolute;
   left: 28px;
@@ -1278,6 +1296,11 @@ dialog.story-modal[open] {
   place-items: center;
   background: #fff;
   box-shadow: 0 2px 10px #3625430a;
+}
+.story-close:focus-visible {
+  outline: none;
+  background: #f0e9f7;
+  color: #6e5189;
 }
 .story-close svg {
   width: 19px;
@@ -1615,11 +1638,14 @@ dialog.story-modal.story-bubble {
   z-index: -1;
 }
 .story-bubble .story-scroll {
-  border-radius: 25px 25px 0 0;
+  border-radius: 25px;
   min-height: 0;
 }
-.story-bubble .story-actions {
-  border-radius: 0 0 25px 25px;
+.story-scroll .story-actions {
+  margin-top: 24px;
+  padding: 20px 0 0;
+  background: transparent;
+  border-radius: 0;
 }
 .story-entry .about-entry {
   display: block;

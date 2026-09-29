@@ -56,8 +56,10 @@ export default function useNetworkGraph(data: GraphData) {
     view: View;
     width: number;
     height: number;
+    noteInset: number;
   } | null>(null);
   const selectedRef = useRef<string | null>(null);
+  const overviewInset = useRef(0);
   const filtersRef = useRef(filters);
   filtersRef.current = filters;
   const pointsRef = useRef(points);
@@ -93,6 +95,17 @@ export default function useNetworkGraph(data: GraphData) {
     : [];
   const selectedNode = selected ? nodeMap.get(selected) : null;
 
+  const getNoteInset = useCallback(() => {
+    const canvas = svg.current;
+    const note = canvas
+      ?.closest('.workspace')
+      ?.querySelector<HTMLElement>('dialog.story-bubble[open]');
+    if (!canvas || !note || window.innerWidth < 1000) return 0;
+    const box = canvas.getBoundingClientRect();
+    // Layout measurements avoid following the note's entrance transform.
+    const inset = note.offsetLeft + note.offsetWidth - box.left;
+    return box.width - inset >= 400 ? inset : 0;
+  }, []);
   const fit = useCallback(() => {
     const box = svg.current?.getBoundingClientRect();
     if (!box) return;
@@ -101,23 +114,55 @@ export default function useNetworkGraph(data: GraphData) {
       maxX = Math.max(...ps.map((p) => p.x)) + 65,
       minY = Math.min(...ps.map((p) => p.y)) - 45,
       maxY = Math.max(...ps.map((p) => p.y)) + 55;
-    const padX = box.width < 600 ? 25 : 75,
+    const noteInset = getNoteInset();
+    overviewInset.current = noteInset;
+    svg.current?.parentElement?.style.setProperty(
+      '--note-inset',
+      `${noteInset}px`,
+    );
+    const padX = noteInset ? 24 : box.width < 600 ? 25 : 75,
       padTop = 85,
       padBottom = 100;
     const k = Math.min(
-      (box.width - padX * 2) / (maxX - minX),
+      (box.width - noteInset - padX * 2) / (maxX - minX),
       (box.height - padTop - padBottom) / (maxY - minY),
       1.25,
     );
+    // Center visible avatars and name labels, whose widths are not symmetric
+    // around the outermost node positions. Ignore temporary connection labels.
+    const labels = svg.current?.querySelectorAll<SVGTextElement>('.node-label');
+    let centerX = (minX + maxX) / 2;
+    if (labels?.length) {
+      let visibleLeft = Infinity;
+      let visibleRight = -Infinity;
+      for (const label of labels) {
+        const id = label
+          .closest('[data-node-id]')
+          ?.getAttribute('data-node-id');
+        const point = id ? pointsRef.current[id] : undefined;
+        if (!point) continue;
+        const bounds = label.getBBox();
+        visibleLeft = Math.min(visibleLeft, point.x + Math.min(-31, bounds.x));
+        visibleRight = Math.max(
+          visibleRight,
+          point.x + Math.max(31, bounds.x + bounds.width),
+        );
+      }
+      if (Number.isFinite(visibleLeft))
+        centerX = (visibleLeft + visibleRight) / 2;
+    }
     animateView({
       k: Math.max(0.15, k),
-      x: box.width / 2 - ((minX + maxX) / 2) * k,
+      x: (noteInset + box.width) / 2 - centerX * k,
       y:
         padTop +
         (box.height - padTop - padBottom) / 2 -
         ((minY + maxY) / 2) * k,
     });
-  }, [animateView]);
+  }, [animateView, getNoteInset]);
+  const reframeOverview = useCallback(() => {
+    if (!selectedRef.current && overviewInset.current !== getNoteInset()) fit();
+  }, [fit, getNoteInset]);
   const frameSelection = useCallback(
     (id: string) => {
       const canvas = svg.current;
@@ -177,6 +222,7 @@ export default function useNetworkGraph(data: GraphData) {
             view: viewRef.current,
             width: bounds.width,
             height: bounds.height,
+            noteInset: overviewInset.current,
           };
       }
       if (selectedRef.current === id) frameSelection(id);
@@ -219,14 +265,15 @@ export default function useNetworkGraph(data: GraphData) {
       const bounds = svg.current?.getBoundingClientRect();
       if (
         bounds &&
-        (Math.abs(bounds.width - saved.width) > 1 ||
+        (saved.noteInset !== getNoteInset() ||
+          Math.abs(bounds.width - saved.width) > 1 ||
           Math.abs(bounds.height - saved.height) > 1)
       )
         fit();
       else animateView(saved.view);
       returnView.current = null;
     }
-  }, [animateView, fit]);
+  }, [animateView, fit, getNoteInset]);
   useEffect(() => {
     const el = svg.current;
     if (!el) return;
@@ -410,6 +457,7 @@ export default function useNetworkGraph(data: GraphData) {
     found,
     selectedNode,
     fit,
+    reframeOverview,
     choose,
     closeCard,
     zoomAt,
