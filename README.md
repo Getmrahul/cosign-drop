@@ -38,13 +38,18 @@ The challenge asks for the agent conversation used to build the drop. The [conve
 
 ## Development
 
-Built with Next.js, React, and Tailwind CSS. Use Node 22.18+ (Node 24 recommended).
+Built with Next.js, React, and Tailwind CSS. Development is pinned to Node **24.12.0** and npm **11.6.2**.
 
 ```sh
+nvm install
+nvm use
+npm install --global npm@11.6.2
 cd frontend
 npm ci
 npm run dev
 ```
+
+The setup commands assume [nvm](https://github.com/nvm-sh/nvm) is installed; another version manager is fine if it selects these exact versions. `frontend/.npmrc` rejects installs with mismatched Node or npm versions. Use `npm ci` for a fresh checkout; use `npm install` when intentionally changing dependencies and commit the updated lockfile. Update the version pins together when upgrading the toolchain.
 
 Open http://127.0.0.1:3000.
 

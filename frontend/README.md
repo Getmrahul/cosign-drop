@@ -40,12 +40,17 @@ To refresh it after more work, run `python3 scripts/export-transcript.py` from t
 
 ## Development
 
-Built with Next.js, React, and Tailwind CSS. Use Node 22.18+ (Node 24 recommended).
+Built with Next.js, React, and Tailwind CSS. Development is pinned to Node **24.12.0** and npm **11.6.2**.
 
 ```sh
+nvm install
+nvm use
+npm install --global npm@11.6.2
 npm ci
 npm run dev
 ```
+
+With [nvm](https://github.com/nvm-sh/nvm) installed, these commands find the repository's parent `.nvmrc`. Another version manager is fine if it selects these exact versions. `.npmrc` rejects installs with mismatched Node or npm versions. Use `npm ci` for a fresh checkout; use `npm install` when intentionally changing dependencies and commit the updated lockfile. Update `.nvmrc`, `packageManager`, `engines`, and the documented versions together when upgrading the toolchain.
 
 Open http://127.0.0.1:3000. Run `npm run build` followed by `npm start` to preview the production export with Cloudflare's local runtime at http://127.0.0.1:8787. Next.js builds the HTML, JavaScript, CSS, and images into `out/`.
 
@@ -72,7 +77,7 @@ Following the conventions in Hero's frontend:
 
 ## Local checks
 
-Use Node 22.18+ (Node 24 recommended).
+Use the pinned Node 24.12.0 and npm 11.6.2 toolchain described above.
 
 ```sh
 npm run format        # Apply formatting
