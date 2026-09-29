@@ -1,7 +1,7 @@
-"""Export saved user-visible Codex messages across the drop's related chats.
+"""Export saved user-visible Codex messages from this project's chats.
 
 Usage: python3 scripts/export-transcript.py [session.jsonl ...]
-With no paths, export the known related chats and all local chats in this repo.
+With no paths, export only local chats whose working directory is this repo.
 Tool logs, injected instructions, private reasoning, and subagents are excluded.
 """
 import base64
@@ -21,9 +21,10 @@ TITLES = {
     '01a0ecc4-613c-7c63-b3ec-3a683d6fbb24': 'Understand the Cosign Drop challenge',
     '01a0ed56-a0ab-7b10-82c2-5df1821f9cfd': 'Animate graph connections',
     '01a0ed60-7416-78b0-8514-3dbfbaeeb20c': 'Extract updated chat transcript',
-    '01a0e943-6c90-7522-a696-678c92fca427': 'Explain the drop in this post',
-    '01a0e96e-eb99-7493-b258-ef0023f39df2': 'Explore hiring challenge',
-    '01a0e9ac-1e03-7883-a394-ef1c8e986302': 'Explore hiring challenge (2)',
+    '01a0edcc-291d-7500-931b-52e33f6eeca6': 'Update modal social graph copy',
+    '01a0edb6-59f1-7be0-af8d-b3d7b0e56bb0': 'Assess the Cosign Drop challenge',
+    '01a0eddb-8724-74d1-8fd2-7dc5a886c363': 'Verify the claim',
+    '01a0edff-c9e5-7320-8709-c89343a8de02': 'wait seems like you added conversation from other project I wanted only this project',
 }
 IST = ZoneInfo('Asia/Kolkata')
 CUTOFF = datetime.now(timezone.utc)
@@ -44,7 +45,10 @@ def metadata(path):
 
 def sources():
     if sys.argv[1:]:
-        return [(Path(p), metadata(Path(p))) for p in sys.argv[1:]]
+        selected = [(Path(p), metadata(Path(p))) for p in sys.argv[1:]]
+        if any(Path(meta.get('cwd', '/')) != ROOT.parent for _, meta in selected):
+            raise SystemExit('Only sessions from this project may be exported.')
+        return selected
     home = Path(os.environ.get('CODEX_HOME', str(Path.home() / '.codex')))
     result = []
     for folder in ('sessions', 'archived_sessions'):
@@ -54,11 +58,8 @@ def sources():
             meta = metadata(path)
             if isinstance(meta.get('source'), dict) and 'subagent' in meta['source']:
                 continue
-            if meta.get('id') in TITLES or Path(meta.get('cwd', '/')) == ROOT.parent:
+            if Path(meta.get('cwd', '/')) == ROOT.parent:
                 result.append((path, meta))
-    missing = TITLES.keys() - {meta.get('id') for _, meta in result}
-    if missing:
-        raise SystemExit('Missing expected chats: ' + ', '.join(sorted(missing)))
     # Keep existing image numbering from the main build chat stable.
     return sorted(result, key=lambda pair: (pair[1].get('id') != next(iter(TITLES)), str(pair[0])))
 
@@ -138,9 +139,9 @@ thread_numbers = {thread: number for number, thread in enumerate(thread_order, 1
 index_text = '\n'.join(f'| {thread_numbers[thread]} | {thread_titles[thread]} | {thread_counts[thread]} | `{thread}` |' for thread in thread_order)
 header = f'''# Building The Network — conversation transcript
 
-Snapshot captured at **{display(CUTOFF)}**. This chronological export contains **{len(messages)} saved user-visible messages** ({counts['user']} from Rahul and {counts['assistant']} from Codex) across **{len(thread_order)} related Codex chats**, with **{image_count} embedded user images**. Messages run from {display(messages[0][0])} through {display(messages[-1][0])}. Later or unsaved messages are not included; active chats can continue after this snapshot.
+Snapshot captured at **{display(CUTOFF)}**. This chronological export contains **{len(messages)} saved user-visible messages** ({counts['user']} from Rahul and {counts['assistant']} from Codex) across **{len(thread_order)} project Codex chats**, with **{image_count} embedded user images**. Messages run from {display(messages[0][0])} through {display(messages[-1][0])}. Later or unsaved messages are not included; active chats can continue after this snapshot.
 
-The scope includes the earlier challenge and concept discussions, the main build, the subsequent graph animation and responsive layout work, and transcript preparation. Each message is labeled with its source chat. This is an export of local Codex conversations; separate ChatGPT conversations are not included.
+The scope is restricted to chats whose working directory matches this cosign-drop repository. Chats from other project folders, including the separate CosignDrop project, are excluded. Each message is labeled with its source chat. This is an export of local Codex conversations; separate ChatGPT conversations are not included.
 
 Message wording is retained, including typos, revisions, abandoned ideas, and claims made at the time. System/developer instructions, private reasoning, tool calls/results, automatic browser/environment context, injected AGENTS.md instructions, and internal subagent/approval-review sessions are excluded. No messages were reconstructed from summaries. Local file links and attachment paths are replaced with readable references. Non-image attachments (including the original HEIC and storytelling Markdown) are not embedded. Saved image copies may have been resized by the chat application. Interactive visualizations are represented by placeholders.
 

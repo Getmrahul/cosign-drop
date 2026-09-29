@@ -36,7 +36,7 @@ But mostly, I just love this graph <3
 
 The challenge asks for the agent conversation used to build the drop. The [conversation transcript](docs/conversation-transcript.md) preserves the actual user and assistant messages, including research, raw ideas, design iterations, data corrections, and deployment work. Shared screenshots are included. Its introduction documents the export scope and omissions.
 
-To refresh it after more work, run `python3 scripts/export-transcript.py` from this directory. It discovers the known challenge discussions and all local Codex chats in this repository, and labels every message by its source chat. To export selected chats instead, pass one or more session JSONL paths. The export contains public-facing messages only, not the raw session log. Transcript files live in `docs/`, outside the deployed `public/` assets.
+To refresh it after more work, run `python3 scripts/export-transcript.py` from this directory. It discovers only local Codex chats whose working directory matches this repository, and labels every message by its source chat. To export selected chats instead, pass one or more session JSONL paths from this same project. Sessions from other project folders are rejected. The export contains public-facing messages only, not the raw session log. Transcript files live in `docs/`, outside the deployed `public/` assets.
 
 ## Development
 
